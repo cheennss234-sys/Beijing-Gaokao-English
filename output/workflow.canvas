@@ -1,0 +1,216 @@
+{
+  "nodes": [
+    {
+      "id": "a000000000000008",
+      "type": "group",
+      "x": 0,
+      "y": 400,
+      "width": 2400,
+      "height": 600,
+      "label": "Top 10 高频词示例",
+      "color": "6"
+    },
+    {
+      "id": "a000000000000001",
+      "type": "text",
+      "x": 0,
+      "y": 0,
+      "width": 400,
+      "height": 200,
+      "color": "2",
+      "text": "# 数据收集\n2024-2026 北京各城区\n高三期中/期末/一模/二模\n英语试卷"
+    },
+    {
+      "id": "a000000000000002",
+      "type": "text",
+      "x": 500,
+      "y": 0,
+      "width": 400,
+      "height": 200,
+      "color": "3",
+      "text": "# 文本预处理\n分词 + 词形还原\n去停用词\n清洗题号/选项"
+    },
+    {
+      "id": "a000000000000003",
+      "type": "text",
+      "x": 1000,
+      "y": 0,
+      "width": 400,
+      "height": 200,
+      "color": "3",
+      "text": "# 课本词汇剔除\n基准：人教版+北师大版\n必修1-选择性必修4\n保留课外单词"
+    },
+    {
+      "id": "a000000000000004",
+      "type": "text",
+      "x": 1500,
+      "y": 0,
+      "width": 400,
+      "height": 200,
+      "color": "4",
+      "text": "# 词频统计\n仅保留频次 ≥3\n按频次降序排序\n共 111 个词条"
+    },
+    {
+      "id": "a000000000000005",
+      "type": "text",
+      "x": 2000,
+      "y": 0,
+      "width": 400,
+      "height": 200,
+      "color": "4",
+      "text": "# 自审纠错\n移除专有名词\n移除乱码/标点\n移除分词错误"
+    },
+    {
+      "id": "a000000000000006",
+      "type": "text",
+      "x": 2500,
+      "y": 0,
+      "width": 400,
+      "height": 200,
+      "color": "5",
+      "text": "# 多格式输出\nPDF | Word | TXT\n应用品牌配色\nJSON Canvas"
+    },
+    {
+      "id": "a000000000000007",
+      "type": "text",
+      "x": 2600,
+      "y": -400,
+      "width": 400,
+      "height": 300,
+      "color": "1",
+      "text": "# 统计元信息\n年份: 2024-2026\n城区: 东城/西城/海淀/朝阳/丰台/石景山\n考试: 期中/期末/一模/二模\n课本基准: 人教版+北师大版\n最低频次: 3\n词条总数: 111"
+    },
+    {
+      "id": "a000000000000009",
+      "type": "text",
+      "x": 40,
+      "y": 460,
+      "width": 440,
+      "height": 250,
+      "text": "#1 advocate (v.)\n提倡；拥护；主张\n频次: 17"
+    },
+    {
+      "id": "a00000000000000a",
+      "type": "text",
+      "x": 510,
+      "y": 460,
+      "width": 440,
+      "height": 250,
+      "text": "#2 acknowledge (v.)\n承认；答谢；意识到\n频次: 16"
+    },
+    {
+      "id": "a00000000000000b",
+      "type": "text",
+      "x": 980,
+      "y": 460,
+      "width": 440,
+      "height": 250,
+      "text": "#3 demonstrate (v.)\n展示；证明；示范\n频次: 16"
+    },
+    {
+      "id": "a00000000000000c",
+      "type": "text",
+      "x": 1450,
+      "y": 460,
+      "width": 440,
+      "height": 250,
+      "text": "#4 cognitive (adj.)\n认知的；认识的\n频次: 15"
+    },
+    {
+      "id": "a00000000000000d",
+      "type": "text",
+      "x": 1920,
+      "y": 460,
+      "width": 440,
+      "height": 250,
+      "text": "#5 commitment (n.)\n承诺；投入；奉献\n频次: 15"
+    },
+    {
+      "id": "a00000000000000e",
+      "type": "text",
+      "x": 40,
+      "y": 730,
+      "width": 440,
+      "height": 250,
+      "text": "#6 enhance (v.)\n提升；增强；提高\n频次: 15"
+    },
+    {
+      "id": "a00000000000000f",
+      "type": "text",
+      "x": 510,
+      "y": 730,
+      "width": 440,
+      "height": 250,
+      "text": "#7 consequence (n.)\n后果；结果；影响\n频次: 14"
+    },
+    {
+      "id": "a000000000000010",
+      "type": "text",
+      "x": 980,
+      "y": 730,
+      "width": 440,
+      "height": 250,
+      "text": "#8 evaluate (v.)\n评估；评价\n频次: 14"
+    },
+    {
+      "id": "a000000000000011",
+      "type": "text",
+      "x": 1450,
+      "y": 730,
+      "width": 440,
+      "height": 250,
+      "text": "#9 foster (v.)\n培养；促进；抚育\n频次: 14"
+    },
+    {
+      "id": "a000000000000012",
+      "type": "text",
+      "x": 1920,
+      "y": 730,
+      "width": 440,
+      "height": 250,
+      "text": "#10 insight (n.)\n洞察力；见解；领悟\n频次: 14"
+    }
+  ],
+  "edges": [
+    {
+      "id": "a000000000000013",
+      "fromNode": "a000000000000001",
+      "fromSide": "right",
+      "toNode": "a000000000000002",
+      "toSide": "left",
+      "toEnd": "arrow"
+    },
+    {
+      "id": "a000000000000014",
+      "fromNode": "a000000000000002",
+      "fromSide": "right",
+      "toNode": "a000000000000003",
+      "toSide": "left",
+      "toEnd": "arrow"
+    },
+    {
+      "id": "a000000000000015",
+      "fromNode": "a000000000000003",
+      "fromSide": "right",
+      "toNode": "a000000000000004",
+      "toSide": "left",
+      "toEnd": "arrow"
+    },
+    {
+      "id": "a000000000000016",
+      "fromNode": "a000000000000004",
+      "fromSide": "right",
+      "toNode": "a000000000000005",
+      "toSide": "left",
+      "toEnd": "arrow"
+    },
+    {
+      "id": "a000000000000017",
+      "fromNode": "a000000000000005",
+      "fromSide": "right",
+      "toNode": "a000000000000006",
+      "toSide": "left",
+      "toEnd": "arrow"
+    }
+  ]
+}

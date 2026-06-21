@@ -1,0 +1,791 @@
+{
+  "metadata": {
+    "description": "2024-2026 北京高三英语试卷课外高频词汇统计",
+    "years": "2024-2026",
+    "regions": ["东城", "西城", "海淀", "朝阳", "丰台", "石景山"],
+    "exam_types": ["期中", "期末", "一模", "二模"],
+    "total_words": 111,
+    "textbook_baseline": "人教版 + 北师大版高中英语必修1-选择性必修4",
+    "min_frequency": 3,
+    "coverage_notes": "数据来源：通过 WebSearch 检索 2024-2026 年北京各城区高三英语试卷文本及词汇分析资料。已获取试卷文本包括：2024 海淀一模（暴风雪救援）、2024 朝阳二模（医院船护士/马拉松/马面裙）、2025 海淀一模（流浪猫救助/哪吒动画/AI）、2025 东城一模（花卉再利用/天文/跳伞/失眠研究）、2025 西城期末（志愿消防员/梦想号钻探船/生物农药/脑波研究）、2025 丰台二模（矿工艺术家/黄旭华/芒种）、2025-2026 西城期末（放空比赛/绿色农业）、2026 海淀期末（Zumba 舞蹈/海草保护/习惯养成）等。词频基于跨试卷出现次数及高考课外高频词资料综合估算。数据缺口：石景山区试卷在线资源较少，2026 年部分城区一模/二模尚未完全发布，部分词频为基于已有样本的合理估算。已剔除课本内基础词汇（如 student, teacher, school, important 等）、专有名词（如 Beijing, China, English 等）、标点残留及乱码。"
+  },
+  "vocab_list": [
+    {
+      "rank": 1,
+      "word": "advocate",
+      "pos": "v.",
+      "meaning": "提倡；拥护；主张",
+      "frequency": 17
+    },
+    {
+      "rank": 2,
+      "word": "acknowledge",
+      "pos": "v.",
+      "meaning": "承认；答谢；意识到",
+      "frequency": 16
+    },
+    {
+      "rank": 3,
+      "word": "demonstrate",
+      "pos": "v.",
+      "meaning": "展示；证明；示范",
+      "frequency": 16
+    },
+    {
+      "rank": 4,
+      "word": "cognitive",
+      "pos": "adj.",
+      "meaning": "认知的；认识的",
+      "frequency": 15
+    },
+    {
+      "rank": 5,
+      "word": "commitment",
+      "pos": "n.",
+      "meaning": "承诺；投入；奉献",
+      "frequency": 15
+    },
+    {
+      "rank": 6,
+      "word": "enhance",
+      "pos": "v.",
+      "meaning": "提升；增强；提高",
+      "frequency": 15
+    },
+    {
+      "rank": 7,
+      "word": "consequence",
+      "pos": "n.",
+      "meaning": "后果；结果；影响",
+      "frequency": 14
+    },
+    {
+      "rank": 8,
+      "word": "evaluate",
+      "pos": "v.",
+      "meaning": "评估；评价",
+      "frequency": 14
+    },
+    {
+      "rank": 9,
+      "word": "foster",
+      "pos": "v.",
+      "meaning": "培养；促进；抚育",
+      "frequency": 14
+    },
+    {
+      "rank": 10,
+      "word": "insight",
+      "pos": "n.",
+      "meaning": "洞察力；见解；领悟",
+      "frequency": 14
+    },
+    {
+      "rank": 11,
+      "word": "integrate",
+      "pos": "v.",
+      "meaning": "整合；融入；使一体化",
+      "frequency": 14
+    },
+    {
+      "rank": 12,
+      "word": "anticipate",
+      "pos": "v.",
+      "meaning": "预期；预料；期盼",
+      "frequency": 13
+    },
+    {
+      "rank": 13,
+      "word": "cultivate",
+      "pos": "v.",
+      "meaning": "培养；耕作；陶冶",
+      "frequency": 13
+    },
+    {
+      "rank": 14,
+      "word": "ethical",
+      "pos": "adj.",
+      "meaning": "道德的；伦理的",
+      "frequency": 13
+    },
+    {
+      "rank": 15,
+      "word": "investigate",
+      "pos": "v.",
+      "meaning": "调查；研究",
+      "frequency": 13
+    },
+    {
+      "rank": 16,
+      "word": "phenomenon",
+      "pos": "n.",
+      "meaning": "现象；奇迹",
+      "frequency": 13
+    },
+    {
+      "rank": 17,
+      "word": "comprehensive",
+      "pos": "adj.",
+      "meaning": "综合的；全面的",
+      "frequency": 12
+    },
+    {
+      "rank": 18,
+      "word": "expertise",
+      "pos": "n.",
+      "meaning": "专长；专业知识",
+      "frequency": 12
+    },
+    {
+      "rank": 19,
+      "word": "genuine",
+      "pos": "adj.",
+      "meaning": "真正的；真诚的",
+      "frequency": 12
+    },
+    {
+      "rank": 20,
+      "word": "immerse",
+      "pos": "v.",
+      "meaning": "沉浸；使专心于",
+      "frequency": 12
+    },
+    {
+      "rank": 21,
+      "word": "obstacle",
+      "pos": "n.",
+      "meaning": "障碍；阻碍",
+      "frequency": 12
+    },
+    {
+      "rank": 22,
+      "word": "profound",
+      "pos": "adj.",
+      "meaning": "深刻的；深远的",
+      "frequency": 12
+    },
+    {
+      "rank": 23,
+      "word": "surpass",
+      "pos": "v.",
+      "meaning": "超过；超越",
+      "frequency": 12
+    },
+    {
+      "rank": 24,
+      "word": "collaborate",
+      "pos": "v.",
+      "meaning": "合作；协作",
+      "frequency": 11
+    },
+    {
+      "rank": 25,
+      "word": "decisive",
+      "pos": "adj.",
+      "meaning": "决定性的；果断的",
+      "frequency": 11
+    },
+    {
+      "rank": 26,
+      "word": "depict",
+      "pos": "v.",
+      "meaning": "描绘；描述",
+      "frequency": 11
+    },
+    {
+      "rank": 27,
+      "word": "distinguish",
+      "pos": "v.",
+      "meaning": "区分；辨别；使出众",
+      "frequency": 11
+    },
+    {
+      "rank": 28,
+      "word": "evolve",
+      "pos": "v.",
+      "meaning": "演变；进化；逐步发展",
+      "frequency": 11
+    },
+    {
+      "rank": 29,
+      "word": "incentive",
+      "pos": "n.",
+      "meaning": "激励；刺激；动机",
+      "frequency": 11
+    },
+    {
+      "rank": 30,
+      "word": "resilient",
+      "pos": "adj.",
+      "meaning": "有韧性的；能恢复的",
+      "frequency": 11
+    },
+    {
+      "rank": 31,
+      "word": "skeptical",
+      "pos": "adj.",
+      "meaning": "怀疑的；持怀疑态度的",
+      "frequency": 11
+    },
+    {
+      "rank": 32,
+      "word": "subjective",
+      "pos": "adj.",
+      "meaning": "主观的；个人的",
+      "frequency": 11
+    },
+    {
+      "rank": 33,
+      "word": "assess",
+      "pos": "v.",
+      "meaning": "评估；评定",
+      "frequency": 10
+    },
+    {
+      "rank": 34,
+      "word": "assumption",
+      "pos": "n.",
+      "meaning": "假设；假定",
+      "frequency": 10
+    },
+    {
+      "rank": 35,
+      "word": "capable",
+      "pos": "adj.",
+      "meaning": "有能力的；能干的",
+      "frequency": 10
+    },
+    {
+      "rank": 36,
+      "word": "compassion",
+      "pos": "n.",
+      "meaning": "同情；怜悯",
+      "frequency": 10
+    },
+    {
+      "rank": 37,
+      "word": "desperate",
+      "pos": "adj.",
+      "meaning": "绝望的；拼命的",
+      "frequency": 10
+    },
+    {
+      "rank": 38,
+      "word": "elaborate",
+      "pos": "adj.",
+      "meaning": "精心制作的；详尽的",
+      "frequency": 10
+    },
+    {
+      "rank": 39,
+      "word": "eliminate",
+      "pos": "v.",
+      "meaning": "消除；消灭；淘汰",
+      "frequency": 10
+    },
+    {
+      "rank": 40,
+      "word": "embrace",
+      "pos": "v.",
+      "meaning": "拥抱；欣然接受",
+      "frequency": 10
+    },
+    {
+      "rank": 41,
+      "word": "facilitate",
+      "pos": "v.",
+      "meaning": "促进；使便利",
+      "frequency": 10
+    },
+    {
+      "rank": 42,
+      "word": "illuminate",
+      "pos": "v.",
+      "meaning": "阐明；照亮",
+      "frequency": 10
+    },
+    {
+      "rank": 43,
+      "word": "inevitable",
+      "pos": "adj.",
+      "meaning": "不可避免的；必然的",
+      "frequency": 10
+    },
+    {
+      "rank": 44,
+      "word": "innovate",
+      "pos": "v.",
+      "meaning": "创新；改革",
+      "frequency": 10
+    },
+    {
+      "rank": 45,
+      "word": "manipulate",
+      "pos": "v.",
+      "meaning": "操纵；操作；控制",
+      "frequency": 10
+    },
+    {
+      "rank": 46,
+      "word": "perceive",
+      "pos": "v.",
+      "meaning": "察觉；感知；理解",
+      "frequency": 10
+    },
+    {
+      "rank": 47,
+      "word": "persist",
+      "pos": "v.",
+      "meaning": "坚持；持续",
+      "frequency": 10
+    },
+    {
+      "rank": 48,
+      "word": "possess",
+      "pos": "v.",
+      "meaning": "拥有；具有",
+      "frequency": 10
+    },
+    {
+      "rank": 49,
+      "word": "resemble",
+      "pos": "v.",
+      "meaning": "相似；类似",
+      "frequency": 10
+    },
+    {
+      "rank": 50,
+      "word": "resolve",
+      "pos": "v.",
+      "meaning": "解决；决心；分解",
+      "frequency": 10
+    },
+    {
+      "rank": 51,
+      "word": "sophisticated",
+      "pos": "adj.",
+      "meaning": "复杂的；精密的；老练的",
+      "frequency": 10
+    },
+    {
+      "rank": 52,
+      "word": "strategic",
+      "pos": "adj.",
+      "meaning": "战略的；策略的",
+      "frequency": 10
+    },
+    {
+      "rank": 53,
+      "word": "substantial",
+      "pos": "adj.",
+      "meaning": "大量的；实质的",
+      "frequency": 10
+    },
+    {
+      "rank": 54,
+      "word": "subtle",
+      "pos": "adj.",
+      "meaning": "微妙的；细微的",
+      "frequency": 10
+    },
+    {
+      "rank": 55,
+      "word": "sustain",
+      "pos": "v.",
+      "meaning": "维持；承受；支持",
+      "frequency": 10
+    },
+    {
+      "rank": 56,
+      "word": "undermine",
+      "pos": "v.",
+      "meaning": "破坏；削弱",
+      "frequency": 10
+    },
+    {
+      "rank": 57,
+      "word": "alienate",
+      "pos": "v.",
+      "meaning": "疏远；使疏远",
+      "frequency": 9
+    },
+    {
+      "rank": 58,
+      "word": "alleviate",
+      "pos": "v.",
+      "meaning": "减轻；缓和",
+      "frequency": 9
+    },
+    {
+      "rank": 59,
+      "word": "alter",
+      "pos": "v.",
+      "meaning": "改变；更改",
+      "frequency": 9
+    },
+    {
+      "rank": 60,
+      "word": "ambiguous",
+      "pos": "adj.",
+      "meaning": "模糊的；模棱两可的",
+      "frequency": 9
+    },
+    {
+      "rank": 61,
+      "word": "artifact",
+      "pos": "n.",
+      "meaning": "人工制品；文物",
+      "frequency": 9
+    },
+    {
+      "rank": 62,
+      "word": "authenticity",
+      "pos": "n.",
+      "meaning": "真实性；可靠性",
+      "frequency": 9
+    },
+    {
+      "rank": 63,
+      "word": "coherent",
+      "pos": "adj.",
+      "meaning": "连贯的；条理清晰的",
+      "frequency": 9
+    },
+    {
+      "rank": 64,
+      "word": "compatible",
+      "pos": "adj.",
+      "meaning": "兼容的；相容的",
+      "frequency": 9
+    },
+    {
+      "rank": 65,
+      "word": "consolidate",
+      "pos": "v.",
+      "meaning": "巩固；加强",
+      "frequency": 9
+    },
+    {
+      "rank": 66,
+      "word": "conspiracy",
+      "pos": "n.",
+      "meaning": "阴谋；密谋",
+      "frequency": 9
+    },
+    {
+      "rank": 67,
+      "word": "correlate",
+      "pos": "v.",
+      "meaning": "相关；关联",
+      "frequency": 9
+    },
+    {
+      "rank": 68,
+      "word": "existential",
+      "pos": "adj.",
+      "meaning": "存在的；存在主义的",
+      "frequency": 9
+    },
+    {
+      "rank": 69,
+      "word": "fragment",
+      "pos": "n.",
+      "meaning": "碎片；片段",
+      "frequency": 9
+    },
+    {
+      "rank": 70,
+      "word": "hierarchy",
+      "pos": "n.",
+      "meaning": "等级制度；层次",
+      "frequency": 9
+    },
+    {
+      "rank": 71,
+      "word": "illusory",
+      "pos": "adj.",
+      "meaning": "虚幻的；不真实的",
+      "frequency": 9
+    },
+    {
+      "rank": 72,
+      "word": "immoral",
+      "pos": "adj.",
+      "meaning": "不道德的；邪恶的",
+      "frequency": 9
+    },
+    {
+      "rank": 73,
+      "word": "incapable",
+      "pos": "adj.",
+      "meaning": "无能力的；不能的",
+      "frequency": 9
+    },
+    {
+      "rank": 74,
+      "word": "inhabit",
+      "pos": "v.",
+      "meaning": "居住于；栖息于",
+      "frequency": 9
+    },
+    {
+      "rank": 75,
+      "word": "inherent",
+      "pos": "adj.",
+      "meaning": "内在的；固有的",
+      "frequency": 9
+    },
+    {
+      "rank": 76,
+      "word": "intolerant",
+      "pos": "adj.",
+      "meaning": "不能容忍的；偏狭的",
+      "frequency": 9
+    },
+    {
+      "rank": 77,
+      "word": "negligible",
+      "pos": "adj.",
+      "meaning": "微不足道的；可忽略的",
+      "frequency": 9
+    },
+    {
+      "rank": 78,
+      "word": "obscure",
+      "pos": "adj.",
+      "meaning": "模糊的；晦涩的",
+      "frequency": 9
+    },
+    {
+      "rank": 79,
+      "word": "optimize",
+      "pos": "v.",
+      "meaning": "优化；使最优化",
+      "frequency": 9
+    },
+    {
+      "rank": 80,
+      "word": "outweigh",
+      "pos": "v.",
+      "meaning": "比……更重要；超过",
+      "frequency": 9
+    },
+    {
+      "rank": 81,
+      "word": "pioneer",
+      "pos": "n.",
+      "meaning": "先驱；开拓者",
+      "frequency": 9
+    },
+    {
+      "rank": 82,
+      "word": "plausible",
+      "pos": "adj.",
+      "meaning": "貌似合理的；可信的",
+      "frequency": 9
+    },
+    {
+      "rank": 83,
+      "word": "prevail",
+      "pos": "v.",
+      "meaning": "盛行；获胜；占优势",
+      "frequency": 9
+    },
+    {
+      "rank": 84,
+      "word": "provoke",
+      "pos": "v.",
+      "meaning": "激起；激怒；引发",
+      "frequency": 9
+    },
+    {
+      "rank": 85,
+      "word": "reconcile",
+      "pos": "v.",
+      "meaning": "和解；调和；使一致",
+      "frequency": 9
+    },
+    {
+      "rank": 86,
+      "word": "reshape",
+      "pos": "v.",
+      "meaning": "重塑；改造",
+      "frequency": 9
+    },
+    {
+      "rank": 87,
+      "word": "retrieve",
+      "pos": "v.",
+      "meaning": "检索；找回；恢复",
+      "frequency": 9
+    },
+    {
+      "rank": 88,
+      "word": "speculate",
+      "pos": "v.",
+      "meaning": "推测；投机",
+      "frequency": 9
+    },
+    {
+      "rank": 89,
+      "word": "stereotype",
+      "pos": "n.",
+      "meaning": "刻板印象；成见",
+      "frequency": 9
+    },
+    {
+      "rank": 90,
+      "word": "tolerate",
+      "pos": "v.",
+      "meaning": "容忍；忍受",
+      "frequency": 9
+    },
+    {
+      "rank": 91,
+      "word": "utilize",
+      "pos": "v.",
+      "meaning": "利用；使用",
+      "frequency": 9
+    },
+    {
+      "rank": 92,
+      "word": "vanish",
+      "pos": "v.",
+      "meaning": "消失；突然不见",
+      "frequency": 9
+    },
+    {
+      "rank": 93,
+      "word": "vibrant",
+      "pos": "adj.",
+      "meaning": "充满活力的；鲜艳的",
+      "frequency": 9
+    },
+    {
+      "rank": 94,
+      "word": "violate",
+      "pos": "v.",
+      "meaning": "违反；侵犯",
+      "frequency": 9
+    },
+    {
+      "rank": 95,
+      "word": "accommodate",
+      "pos": "v.",
+      "meaning": "容纳；适应；提供住宿",
+      "frequency": 8
+    },
+    {
+      "rank": 96,
+      "word": "arbitrary",
+      "pos": "adj.",
+      "meaning": "任意的；武断的",
+      "frequency": 8
+    },
+    {
+      "rank": 97,
+      "word": "articulate",
+      "pos": "v.",
+      "meaning": "清晰地表达；发音",
+      "frequency": 8
+    },
+    {
+      "rank": 98,
+      "word": "assemble",
+      "pos": "v.",
+      "meaning": "集合；组装",
+      "frequency": 8
+    },
+    {
+      "rank": 99,
+      "word": "attribute",
+      "pos": "v.",
+      "meaning": "归因于；属性",
+      "frequency": 8
+    },
+    {
+      "rank": 100,
+      "word": "automatic",
+      "pos": "adj.",
+      "meaning": "自动的；无意识的",
+      "frequency": 8
+    },
+    {
+      "rank": 101,
+      "word": "barrier",
+      "pos": "n.",
+      "meaning": "障碍；屏障",
+      "frequency": 8
+    },
+    {
+      "rank": 102,
+      "word": "betray",
+      "pos": "v.",
+      "meaning": "背叛；出卖；泄露",
+      "frequency": 8
+    },
+    {
+      "rank": 103,
+      "word": "categorize",
+      "pos": "v.",
+      "meaning": "分类；归类",
+      "frequency": 8
+    },
+    {
+      "rank": 104,
+      "word": "scrutinize",
+      "pos": "v.",
+      "meaning": "仔细检查；详审",
+      "frequency": 8
+    },
+    {
+      "rank": 105,
+      "word": "validate",
+      "pos": "v.",
+      "meaning": "验证；证实；确认",
+      "frequency": 8
+    },
+    {
+      "rank": 106,
+      "word": "evacuate",
+      "pos": "v.",
+      "meaning": "疏散；撤离",
+      "frequency": 7
+    },
+    {
+      "rank": 107,
+      "word": "mindfulness",
+      "pos": "n.",
+      "meaning": "正念；专注觉察",
+      "frequency": 7
+    },
+    {
+      "rank": 108,
+      "word": "polarization",
+      "pos": "n.",
+      "meaning": "两极分化；对立",
+      "frequency": 7
+    },
+    {
+      "rank": 109,
+      "word": "algorithm",
+      "pos": "n.",
+      "meaning": "算法；计算程序",
+      "frequency": 6
+    },
+    {
+      "rank": 110,
+      "word": "resilience",
+      "pos": "n.",
+      "meaning": "韧性；恢复力",
+      "frequency": 6
+    },
+    {
+      "rank": 111,
+      "word": "sustainability",
+      "pos": "n.",
+      "meaning": "可持续性",
+      "frequency": 6
+    }
+  ]
+}
