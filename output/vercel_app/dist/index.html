@@ -1,0 +1,99 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>北京高三英语课外词汇 - 1083词</title>
+  <script type="module" crossorigin src="./assets/index-u5lVnmwQ.js"></script>
+  <link rel="stylesheet" crossorigin href="./assets/index-BJLT66pl.css">
+</head>
+<body>
+  <div id="app">
+    <header>
+      <h1>📚 北京高三英语课外词汇</h1>
+      <p class="subtitle">基于2024-2026年试卷高频词分析 · 共 <span id="total-count">-</span> 词</p>
+      <nav>
+        <button class="nav-btn active" data-mode="browse">浏览</button>
+        <button class="nav-btn" data-mode="practice">练习</button>
+        <button class="nav-btn" data-mode="quiz">测试</button>
+      </nav>
+    </header>
+
+    <main>
+      <!-- 浏览模式 -->
+      <div id="mode-browse" class="mode active">
+        <div class="toolbar">
+          <input type="text" id="search-input" placeholder="搜索单词..." autocomplete="off" />
+          <select id="filter-pos">
+            <option value="all">全部词性</option>
+            <option value="n.">名词</option>
+            <option value="v.">动词</option>
+            <option value="adj.">形容词</option>
+            <option value="adv.">副词</option>
+          </select>
+          <select id="filter-freq">
+            <option value="all">全部词频</option>
+            <option value="high">高频 (≥10)</option>
+            <option value="mid">中频 (4-9)</option>
+            <option value="low">低频 (2-3)</option>
+          </select>
+        </div>
+        <div class="stats-bar">
+          <span id="showing-count">显示 0 / 0</span>
+          <span class="page-info" id="page-info"></span>
+        </div>
+        <div id="word-grid" class="word-grid"></div>
+        <div class="pagination" id="pagination"></div>
+      </div>
+
+      <!-- 练习模式 -->
+      <div id="mode-practice" class="mode">
+        <div class="practice-container">
+          <div class="progress-bar">
+            <div class="progress-fill" id="practice-progress"></div>
+          </div>
+          <p class="practice-counter" id="practice-counter">1 / 100</p>
+          <div class="word-card">
+            <div class="word-display" id="practice-word">hello</div>
+            <div class="word-meaning" id="practice-meaning" style="display:none"></div>
+          </div>
+          <div class="practice-controls">
+            <button id="show-meaning-btn" class="action-btn primary">显示释义</button>
+            <button id="next-btn" class="action-btn" style="display:none">下一个 →</button>
+            <button id="known-btn" class="action-btn success" style="display:none">认识 ✓</button>
+            <button id="unknown-btn" class="action-btn danger" style="display:none">不认识 ✗</button>
+          </div>
+          <div class="practice-settings">
+            <label>练习范围：
+              <select id="practice-range">
+                <option value="all">全部 1083 词</option>
+                <option value="high">高频词 (≥10) 共 57 词</option>
+                <option value="new">从低频开始</option>
+              </select>
+            </label>
+          </div>
+        </div>
+      </div>
+
+      <!-- 测试模式 -->
+      <div id="mode-quiz" class="mode">
+        <div class="quiz-container">
+          <div class="quiz-progress">
+            <span>进度:</span>
+            <div class="progress-bar">
+              <div class="progress-fill" id="quiz-progress"></div>
+            </div>
+            <span id="quiz-counter">0/20</span>
+            <span id="quiz-score" class="score">得分: 0/0</span>
+          </div>
+          <div class="quiz-question" id="quiz-question"></div>
+          <div class="quiz-options" id="quiz-options"></div>
+          <div class="quiz-feedback" id="quiz-feedback" style="display:none"></div>
+          <button id="quiz-next-btn" class="action-btn" style="display:none">下一题 →</button>
+        </div>
+      </div>
+    </main>
+  </div>
+
+</body>
+</html>

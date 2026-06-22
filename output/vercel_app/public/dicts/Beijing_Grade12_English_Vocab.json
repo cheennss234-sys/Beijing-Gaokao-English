@@ -1,0 +1,6500 @@
+[
+  {
+    "name": "children",
+    "trans": [
+      "n. 孩子们"
+    ]
+  },
+  {
+    "name": "classmates",
+    "trans": [
+      "n. 同学"
+    ]
+  },
+  {
+    "name": "kindness",
+    "trans": [
+      "n. 善良；善意"
+    ]
+  },
+  {
+    "name": "theatre",
+    "trans": [
+      "n. 剧院"
+    ]
+  },
+  {
+    "name": "gratitude",
+    "trans": [
+      "n. 感激；感恩"
+    ]
+  },
+  {
+    "name": "participants",
+    "trans": [
+      "n. 参与者"
+    ]
+  },
+  {
+    "name": "happiness",
+    "trans": [
+      "n. 幸福；快乐"
+    ]
+  },
+  {
+    "name": "cultural",
+    "trans": [
+      "adj. 文化的"
+    ]
+  },
+  {
+    "name": "rescue",
+    "trans": [
+      "n. 救援；营救"
+    ]
+  },
+  {
+    "name": "nearby",
+    "trans": [
+      "adv. 附近"
+    ]
+  },
+  {
+    "name": "confident",
+    "trans": [
+      "adj. 自信的"
+    ]
+  },
+  {
+    "name": "excitement",
+    "trans": [
+      "n. 兴奋"
+    ]
+  },
+  {
+    "name": "meaningful",
+    "trans": [
+      "adj. 有意义的"
+    ]
+  },
+  {
+    "name": "truly",
+    "trans": [
+      "adv. 真正地"
+    ]
+  },
+  {
+    "name": "fly",
+    "trans": [
+      "v. 飞"
+    ]
+  },
+  {
+    "name": "residents",
+    "trans": [
+      "n. 居民"
+    ]
+  },
+  {
+    "name": "laughter",
+    "trans": [
+      "n. 笑声"
+    ]
+  },
+  {
+    "name": "nonprofit",
+    "trans": [
+      "n. 非营利组织"
+    ]
+  },
+  {
+    "name": "robots",
+    "trans": [
+      "n. 机器人"
+    ]
+  },
+  {
+    "name": "bikers",
+    "trans": [
+      "n. 骑自行车的人"
+    ]
+  },
+  {
+    "name": "curiosity",
+    "trans": [
+      "n. 好奇心"
+    ]
+  },
+  {
+    "name": "exploration",
+    "trans": [
+      "n. 探索；探究"
+    ]
+  },
+  {
+    "name": "fully",
+    "trans": [
+      "adv. 完全地"
+    ]
+  },
+  {
+    "name": "grind",
+    "trans": [
+      "v. 磨碎；苦干"
+    ]
+  },
+  {
+    "name": "researchers",
+    "trans": [
+      "n. 研究人员"
+    ]
+  },
+  {
+    "name": "slack",
+    "trans": [
+      "adj. 松懈的"
+    ]
+  },
+  {
+    "name": "wet",
+    "trans": [
+      "adj. 湿的"
+    ]
+  },
+  {
+    "name": "appreciation",
+    "trans": [
+      "n. 欣赏；感激"
+    ]
+  },
+  {
+    "name": "bond",
+    "trans": [
+      "n. 纽带；债券"
+    ]
+  },
+  {
+    "name": "determination",
+    "trans": [
+      "n. 决心；果断"
+    ]
+  },
+  {
+    "name": "eager",
+    "trans": [
+      "adj. 渴望的"
+    ]
+  },
+  {
+    "name": "equanimity",
+    "trans": [
+      "n. 平静；镇定"
+    ]
+  },
+  {
+    "name": "marathon",
+    "trans": [
+      "n. 马拉松"
+    ]
+  },
+  {
+    "name": "sukha",
+    "trans": [
+      "n. 快乐"
+    ]
+  },
+  {
+    "name": "tech",
+    "trans": [
+      "n. 科技"
+    ]
+  },
+  {
+    "name": "unexpected",
+    "trans": [
+      "adj. 意外的"
+    ]
+  },
+  {
+    "name": "version",
+    "trans": [
+      "n. 版本"
+    ]
+  },
+  {
+    "name": "creativity",
+    "trans": [
+      "n. 创造力"
+    ]
+  },
+  {
+    "name": "feet",
+    "trans": [
+      "n. 脚（复数）"
+    ]
+  },
+  {
+    "name": "heritage",
+    "trans": [
+      "n. 遗产；传统"
+    ]
+  },
+  {
+    "name": "imagination",
+    "trans": [
+      "n. 想象力"
+    ]
+  },
+  {
+    "name": "request",
+    "trans": [
+      "n. 请求；要求"
+    ]
+  },
+  {
+    "name": "shifted",
+    "trans": [
+      "v. 转移"
+    ]
+  },
+  {
+    "name": "skirt",
+    "trans": [
+      "n. 裙子"
+    ]
+  },
+  {
+    "name": "thieves",
+    "trans": [
+      "n. 小偷（复数）"
+    ]
+  },
+  {
+    "name": "understood",
+    "trans": [
+      "v. 理解"
+    ]
+  },
+  {
+    "name": "wisdom",
+    "trans": [
+      "n. 智慧"
+    ]
+  },
+  {
+    "name": "awkward",
+    "trans": [
+      "adj. 尴尬的"
+    ]
+  },
+  {
+    "name": "babe",
+    "trans": [
+      "n. 婴儿"
+    ]
+  },
+  {
+    "name": "bored",
+    "trans": [
+      "adj. 无聊的"
+    ]
+  },
+  {
+    "name": "casually",
+    "trans": [
+      "adv. 随意地"
+    ]
+  },
+  {
+    "name": "instantly",
+    "trans": [
+      "adv. 立即"
+    ]
+  },
+  {
+    "name": "partial",
+    "trans": [
+      "adj. 部分的"
+    ]
+  },
+  {
+    "name": "rescued",
+    "trans": [
+      "v. 营救"
+    ]
+  },
+  {
+    "name": "responsible",
+    "trans": [
+      "adj. 负责任的"
+    ]
+  },
+  {
+    "name": "sustainable",
+    "trans": [
+      "adj. 可持续的"
+    ]
+  },
+  {
+    "name": "affordable",
+    "trans": [
+      "adj. 负担得起的"
+    ]
+  },
+  {
+    "name": "annoyed",
+    "trans": [
+      "v. 烦恼"
+    ]
+  },
+  {
+    "name": "artistic",
+    "trans": [
+      "adj. 艺术的"
+    ]
+  },
+  {
+    "name": "battery",
+    "trans": [
+      "n. 电池"
+    ]
+  },
+  {
+    "name": "carbon",
+    "trans": [
+      "n. 碳"
+    ]
+  },
+  {
+    "name": "encouragement",
+    "trans": [
+      "n. 鼓励"
+    ]
+  },
+  {
+    "name": "environmental",
+    "trans": [
+      "adj. 环境的"
+    ]
+  },
+  {
+    "name": "exams",
+    "trans": [
+      "n. 考试"
+    ]
+  },
+  {
+    "name": "guidance",
+    "trans": [
+      "n. 指导；引导"
+    ]
+  },
+  {
+    "name": "incredibly",
+    "trans": [
+      "adv. 难以置信地"
+    ]
+  },
+  {
+    "name": "innovation",
+    "trans": [
+      "n. 创新"
+    ]
+  },
+  {
+    "name": "mile",
+    "trans": [
+      "n. 英里"
+    ]
+  },
+  {
+    "name": "mop",
+    "trans": [
+      "n. 拖把"
+    ]
+  },
+  {
+    "name": "motivation",
+    "trans": [
+      "n. 动力；动机"
+    ]
+  },
+  {
+    "name": "notecards",
+    "trans": [
+      "n. 提示卡"
+    ]
+  },
+  {
+    "name": "overnight",
+    "trans": [
+      "adv. 通宵"
+    ]
+  },
+  {
+    "name": "recipe",
+    "trans": [
+      "n. 食谱；配方"
+    ]
+  },
+  {
+    "name": "relieved",
+    "trans": [
+      "adj. 宽慰的"
+    ]
+  },
+  {
+    "name": "resilience",
+    "trans": [
+      "n. 韧性；恢复力"
+    ]
+  },
+  {
+    "name": "sadness",
+    "trans": [
+      "n. 悲伤"
+    ]
+  },
+  {
+    "name": "strangers",
+    "trans": [
+      "n. 陌生人"
+    ]
+  },
+  {
+    "name": "surprisingly",
+    "trans": [
+      "adv. 令人惊讶地"
+    ]
+  },
+  {
+    "name": "upset",
+    "trans": [
+      "adj. 心烦的"
+    ]
+  },
+  {
+    "name": "accessible",
+    "trans": [
+      "adj. 可进入的"
+    ]
+  },
+  {
+    "name": "aside",
+    "trans": [
+      "adv. 在旁边"
+    ]
+  },
+  {
+    "name": "energetic",
+    "trans": [
+      "adj. 精力充沛的"
+    ]
+  },
+  {
+    "name": "ere",
+    "trans": [
+      "prep. 在...之前"
+    ]
+  },
+  {
+    "name": "generosity",
+    "trans": [
+      "n. 慷慨"
+    ]
+  },
+  {
+    "name": "impatient",
+    "trans": [
+      "adj. 不耐烦的"
+    ]
+  },
+  {
+    "name": "incredible",
+    "trans": [
+      "adj. 难以置信的"
+    ]
+  },
+  {
+    "name": "meditation",
+    "trans": [
+      "n. 冥想"
+    ]
+  },
+  {
+    "name": "miles",
+    "trans": [
+      "n. 英里（复数）"
+    ]
+  },
+  {
+    "name": "mum",
+    "trans": [
+      "n. 妈妈（英式）"
+    ]
+  },
+  {
+    "name": "musical",
+    "trans": [
+      "adj. 音乐的"
+    ]
+  },
+  {
+    "name": "neighbours",
+    "trans": [
+      "n. 邻居"
+    ]
+  },
+  {
+    "name": "overjoyed",
+    "trans": [
+      "adj. 狂喜的"
+    ]
+  },
+  {
+    "name": "productivity",
+    "trans": [
+      "n. 生产力"
+    ]
+  },
+  {
+    "name": "realised",
+    "trans": [
+      "v. 意识到"
+    ]
+  },
+  {
+    "name": "reliable",
+    "trans": [
+      "adj. 可靠的"
+    ]
+  },
+  {
+    "name": "ritual",
+    "trans": [
+      "n. 仪式；惯例"
+    ]
+  },
+  {
+    "name": "shift",
+    "trans": [
+      "n. 转移；轮班"
+    ]
+  },
+  {
+    "name": "soccer",
+    "trans": [
+      "n. 足球"
+    ]
+  },
+  {
+    "name": "spare",
+    "trans": [
+      "v. 抽出"
+    ]
+  },
+  {
+    "name": "thankful",
+    "trans": [
+      "adj. 感激的"
+    ]
+  },
+  {
+    "name": "vocabulary",
+    "trans": [
+      "n. 词汇"
+    ]
+  },
+  {
+    "name": "workout",
+    "trans": [
+      "n. 锻炼"
+    ]
+  },
+  {
+    "name": "annoying",
+    "trans": [
+      "adj. 烦人的"
+    ]
+  },
+  {
+    "name": "asleep",
+    "trans": [
+      "adj. 睡着的"
+    ]
+  },
+  {
+    "name": "calligraphy",
+    "trans": [
+      "n. 书法"
+    ]
+  },
+  {
+    "name": "carousel",
+    "trans": [
+      "n. 旋转木马"
+    ]
+  },
+  {
+    "name": "casual",
+    "trans": [
+      "adj. 随意的"
+    ]
+  },
+  {
+    "name": "centre",
+    "trans": [
+      "n. 中心"
+    ]
+  },
+  {
+    "name": "chat",
+    "trans": [
+      "v. 聊天"
+    ]
+  },
+  {
+    "name": "classmate",
+    "trans": [
+      "n. 同学"
+    ]
+  },
+  {
+    "name": "commitment",
+    "trans": [
+      "n. 承诺；投入"
+    ]
+  },
+  {
+    "name": "crack",
+    "trans": [
+      "n. 裂缝"
+    ]
+  },
+  {
+    "name": "delight",
+    "trans": [
+      "n. 快乐"
+    ]
+  },
+  {
+    "name": "deserve",
+    "trans": [
+      "v. 应得"
+    ]
+  },
+  {
+    "name": "devotion",
+    "trans": [
+      "n. 奉献；忠诚"
+    ]
+  },
+  {
+    "name": "donation",
+    "trans": [
+      "n. 捐赠"
+    ]
+  },
+  {
+    "name": "duet",
+    "trans": [
+      "n. 二重奏"
+    ]
+  },
+  {
+    "name": "eagerly",
+    "trans": [
+      "adv. 急切地"
+    ]
+  },
+  {
+    "name": "eatery",
+    "trans": [
+      "n. 小餐馆"
+    ]
+  },
+  {
+    "name": "efficiency",
+    "trans": [
+      "n. 效率"
+    ]
+  },
+  {
+    "name": "enthusiasm",
+    "trans": [
+      "n. 热情"
+    ]
+  },
+  {
+    "name": "favorite",
+    "trans": [
+      "n. 最爱"
+    ]
+  },
+  {
+    "name": "fir",
+    "trans": [
+      "n. 冷杉"
+    ]
+  },
+  {
+    "name": "floral",
+    "trans": [
+      "adj. 花的"
+    ]
+  },
+  {
+    "name": "folks",
+    "trans": [
+      "n. 人们；家属"
+    ]
+  },
+  {
+    "name": "geo",
+    "trans": [
+      "n. 地理"
+    ]
+  },
+  {
+    "name": "grabbed",
+    "trans": [
+      "v. 抓住（过去式）"
+    ]
+  },
+  {
+    "name": "grandson",
+    "trans": [
+      "n. 孙子"
+    ]
+  },
+  {
+    "name": "imaginative",
+    "trans": [
+      "adj. 富有想象力的"
+    ]
+  },
+  {
+    "name": "increasingly",
+    "trans": [
+      "adv. 越来越"
+    ]
+  },
+  {
+    "name": "inspiration",
+    "trans": [
+      "n. 灵感；鼓舞"
+    ]
+  },
+  {
+    "name": "integrating",
+    "trans": [
+      "v. 整合"
+    ]
+  },
+  {
+    "name": "jersey",
+    "trans": [
+      "n. 运动衫"
+    ]
+  },
+  {
+    "name": "librarian",
+    "trans": [
+      "n. 图书管理员"
+    ]
+  },
+  {
+    "name": "lunar",
+    "trans": [
+      "adj. 月亮的"
+    ]
+  },
+  {
+    "name": "men",
+    "trans": [
+      "n. 男人（复数）"
+    ]
+  },
+  {
+    "name": "nationwide",
+    "trans": [
+      "adj. 全国性的"
+    ]
+  },
+  {
+    "name": "okay",
+    "trans": [
+      "adj. 好的"
+    ]
+  },
+  {
+    "name": "optimistic",
+    "trans": [
+      "adj. 乐观的"
+    ]
+  },
+  {
+    "name": "panicked",
+    "trans": [
+      "adj. 惊慌的"
+    ]
+  },
+  {
+    "name": "papa",
+    "trans": [
+      "n. 爸爸"
+    ]
+  },
+  {
+    "name": "progress",
+    "trans": [
+      "n. 进步"
+    ]
+  },
+  {
+    "name": "robot",
+    "trans": [
+      "n. 机器人"
+    ]
+  },
+  {
+    "name": "sailor",
+    "trans": [
+      "n. 水手"
+    ]
+  },
+  {
+    "name": "scar",
+    "trans": [
+      "n. 伤疤"
+    ]
+  },
+  {
+    "name": "settings",
+    "trans": [
+      "n. 设置；环境"
+    ]
+  },
+  {
+    "name": "snack",
+    "trans": [
+      "n. 零食"
+    ]
+  },
+  {
+    "name": "sold",
+    "trans": [
+      "v. 出售"
+    ]
+  },
+  {
+    "name": "species",
+    "trans": [
+      "n. 物种"
+    ]
+  },
+  {
+    "name": "stroke",
+    "trans": [
+      "v. 抚摸"
+    ]
+  },
+  {
+    "name": "summary",
+    "trans": [
+      "n. 摘要"
+    ]
+  },
+  {
+    "name": "sweaters",
+    "trans": [
+      "n. 毛衣"
+    ]
+  },
+  {
+    "name": "unwanted",
+    "trans": [
+      "adj. 不需要的"
+    ]
+  },
+  {
+    "name": "warmth",
+    "trans": [
+      "n. 温暖"
+    ]
+  },
+  {
+    "name": "acceptance",
+    "trans": [
+      "n. 接受；接纳"
+    ]
+  },
+  {
+    "name": "accidentally",
+    "trans": [
+      "adv. 意外地"
+    ]
+  },
+  {
+    "name": "adoption",
+    "trans": [
+      "n. 收养；采纳"
+    ]
+  },
+  {
+    "name": "afterwards",
+    "trans": [
+      "adv. 后来；以后"
+    ]
+  },
+  {
+    "name": "agricultural",
+    "trans": [
+      "adj. 农业的"
+    ]
+  },
+  {
+    "name": "amazement",
+    "trans": [
+      "n. 惊奇"
+    ]
+  },
+  {
+    "name": "ambulance",
+    "trans": [
+      "n. 救护车"
+    ]
+  },
+  {
+    "name": "applause",
+    "trans": [
+      "n. 掌声"
+    ]
+  },
+  {
+    "name": "arrival",
+    "trans": [
+      "n. 到达"
+    ]
+  },
+  {
+    "name": "basement",
+    "trans": [
+      "n. 地下室"
+    ]
+  },
+  {
+    "name": "bat",
+    "trans": [
+      "n. 蝙蝠；球拍"
+    ]
+  },
+  {
+    "name": "batteries",
+    "trans": [
+      "n. 电池"
+    ]
+  },
+  {
+    "name": "buckets",
+    "trans": [
+      "n. 桶（复数）"
+    ]
+  },
+  {
+    "name": "bulb",
+    "trans": [
+      "n. 灯泡"
+    ]
+  },
+  {
+    "name": "cautiously",
+    "trans": [
+      "adv. 谨慎地"
+    ]
+  },
+  {
+    "name": "celebration",
+    "trans": [
+      "n. 庆祝"
+    ]
+  },
+  {
+    "name": "clapped",
+    "trans": [
+      "v. 鼓掌（过去式）"
+    ]
+  },
+  {
+    "name": "compassion",
+    "trans": [
+      "n. 同情心"
+    ]
+  },
+  {
+    "name": "cookies",
+    "trans": [
+      "n. 饼干"
+    ]
+  },
+  {
+    "name": "cozy",
+    "trans": [
+      "adj. 舒适的；惬意的"
+    ]
+  },
+  {
+    "name": "crucial",
+    "trans": [
+      "adj. 关键的；至关重要的"
+    ]
+  },
+  {
+    "name": "damp",
+    "trans": [
+      "adj. 潮湿的"
+    ]
+  },
+  {
+    "name": "discomfort",
+    "trans": [
+      "n. 不适"
+    ]
+  },
+  {
+    "name": "donations",
+    "trans": [
+      "n. 捐款（复数）"
+    ]
+  },
+  {
+    "name": "dramatic",
+    "trans": [
+      "adj. 戏剧性的"
+    ]
+  },
+  {
+    "name": "electrical",
+    "trans": [
+      "adj. 电的"
+    ]
+  },
+  {
+    "name": "electricity",
+    "trans": [
+      "n. 电"
+    ]
+  },
+  {
+    "name": "electrodes",
+    "trans": [
+      "n. 电极"
+    ]
+  },
+  {
+    "name": "eve",
+    "trans": [
+      "n. 前夜"
+    ]
+  },
+  {
+    "name": "excitedly",
+    "trans": [
+      "adv. 兴奋地"
+    ]
+  },
+  {
+    "name": "exhausted",
+    "trans": [
+      "adj. 筋疲力尽的"
+    ]
+  },
+  {
+    "name": "feathers",
+    "trans": [
+      "n. 羽毛"
+    ]
+  },
+  {
+    "name": "firefighting",
+    "trans": [
+      "n. 消防"
+    ]
+  },
+  {
+    "name": "graduation",
+    "trans": [
+      "n. 毕业"
+    ]
+  },
+  {
+    "name": "hamburger",
+    "trans": [
+      "n. 汉堡包"
+    ]
+  },
+  {
+    "name": "hesitation",
+    "trans": [
+      "n. 犹豫"
+    ]
+  },
+  {
+    "name": "hikers",
+    "trans": [
+      "n. 徒步者（复数）"
+    ]
+  },
+  {
+    "name": "hometown",
+    "trans": [
+      "n. 家乡"
+    ]
+  },
+  {
+    "name": "impactful",
+    "trans": [
+      "adj. 有影响力的"
+    ]
+  },
+  {
+    "name": "injured",
+    "trans": [
+      "adj. 受伤的"
+    ]
+  },
+  {
+    "name": "isolation",
+    "trans": [
+      "n. 隔离；孤立"
+    ]
+  },
+  {
+    "name": "kneel",
+    "trans": [
+      "v. 跪下"
+    ]
+  },
+  {
+    "name": "leap",
+    "trans": [
+      "v. 跳跃"
+    ]
+  },
+  {
+    "name": "loneliness",
+    "trans": [
+      "n. 孤独"
+    ]
+  },
+  {
+    "name": "mindfulness",
+    "trans": [
+      "n. 正念"
+    ]
+  },
+  {
+    "name": "miracle",
+    "trans": [
+      "n. 奇迹"
+    ]
+  },
+  {
+    "name": "misread",
+    "trans": [
+      "v. 读错"
+    ]
+  },
+  {
+    "name": "mobility",
+    "trans": [
+      "n. 流动性"
+    ]
+  },
+  {
+    "name": "ongoing",
+    "trans": [
+      "adj. 持续的"
+    ]
+  },
+  {
+    "name": "patience",
+    "trans": [
+      "n. 耐心"
+    ]
+  },
+  {
+    "name": "penguins",
+    "trans": [
+      "n. 企鹅（复数）"
+    ]
+  },
+  {
+    "name": "pizza",
+    "trans": [
+      "n. 披萨"
+    ]
+  },
+  {
+    "name": "profound",
+    "trans": [
+      "adj. 深刻的"
+    ]
+  },
+  {
+    "name": "ream",
+    "trans": [
+      "n. 令（纸张计量单位）"
+    ]
+  },
+  {
+    "name": "rechargeable",
+    "trans": [
+      "adj. 可充电的"
+    ]
+  },
+  {
+    "name": "repeatedly",
+    "trans": [
+      "adv. 反复地"
+    ]
+  },
+  {
+    "name": "repetition",
+    "trans": [
+      "n. 重复"
+    ]
+  },
+  {
+    "name": "retirement",
+    "trans": [
+      "n. 退休"
+    ]
+  },
+  {
+    "name": "script",
+    "trans": [
+      "n. 剧本"
+    ]
+  },
+  {
+    "name": "seagrass",
+    "trans": [
+      "n. 海草"
+    ]
+  },
+  {
+    "name": "snacks",
+    "trans": [
+      "n. 零食（复数）"
+    ]
+  },
+  {
+    "name": "stylish",
+    "trans": [
+      "adj. 时尚的"
+    ]
+  },
+  {
+    "name": "survival",
+    "trans": [
+      "n. 生存"
+    ]
+  },
+  {
+    "name": "technical",
+    "trans": [
+      "adj. 技术的"
+    ]
+  },
+  {
+    "name": "thankfully",
+    "trans": [
+      "adv. 庆幸地"
+    ]
+  },
+  {
+    "name": "therapy",
+    "trans": [
+      "n. 治疗"
+    ]
+  },
+  {
+    "name": "till",
+    "trans": [
+      "prep. 直到"
+    ]
+  },
+  {
+    "name": "unfortunately",
+    "trans": [
+      "adv. 不幸地"
+    ]
+  },
+  {
+    "name": "unknown",
+    "trans": [
+      "adj. 未知的"
+    ]
+  },
+  {
+    "name": "website",
+    "trans": [
+      "n. 网站"
+    ]
+  },
+  {
+    "name": "women",
+    "trans": [
+      "n. 女人（复数）"
+    ]
+  },
+  {
+    "name": "abs",
+    "trans": [
+      "n. 腹肌"
+    ]
+  },
+  {
+    "name": "abundance",
+    "trans": [
+      "n. 丰富"
+    ]
+  },
+  {
+    "name": "accent",
+    "trans": [
+      "n. 口音"
+    ]
+  },
+  {
+    "name": "acupuncture",
+    "trans": [
+      "n. 针灸"
+    ]
+  },
+  {
+    "name": "algorithms",
+    "trans": [
+      "n. 算法（复数）"
+    ]
+  },
+  {
+    "name": "anti",
+    "trans": [
+      "pref. 反"
+    ]
+  },
+  {
+    "name": "anticipating",
+    "trans": [
+      "v. 预期"
+    ]
+  },
+  {
+    "name": "ballet",
+    "trans": [
+      "n. 芭蕾舞"
+    ]
+  },
+  {
+    "name": "boost",
+    "trans": [
+      "v. 提升"
+    ]
+  },
+  {
+    "name": "boxes",
+    "trans": [
+      "n. 盒子（复数）"
+    ]
+  },
+  {
+    "name": "brightness",
+    "trans": [
+      "n. 亮度"
+    ]
+  },
+  {
+    "name": "chaos",
+    "trans": [
+      "n. 混乱"
+    ]
+  },
+  {
+    "name": "competitive",
+    "trans": [
+      "adj. 竞争的"
+    ]
+  },
+  {
+    "name": "contestants",
+    "trans": [
+      "n. 参赛者"
+    ]
+  },
+  {
+    "name": "countless",
+    "trans": [
+      "adj. 无数的"
+    ]
+  },
+  {
+    "name": "deed",
+    "trans": [
+      "n. 行为"
+    ]
+  },
+  {
+    "name": "depressing",
+    "trans": [
+      "adj. 令人沮丧的"
+    ]
+  },
+  {
+    "name": "diagnosed",
+    "trans": [
+      "v. 诊断"
+    ]
+  },
+  {
+    "name": "disappointment",
+    "trans": [
+      "n. 失望"
+    ]
+  },
+  {
+    "name": "distractions",
+    "trans": [
+      "n. 干扰（复数）"
+    ]
+  },
+  {
+    "name": "diverse",
+    "trans": [
+      "adj. 多样的"
+    ]
+  },
+  {
+    "name": "doubtful",
+    "trans": [
+      "adj. 怀疑的"
+    ]
+  },
+  {
+    "name": "drifting",
+    "trans": [
+      "v. 漂流"
+    ]
+  },
+  {
+    "name": "err",
+    "trans": [
+      "v. 犯错"
+    ]
+  },
+  {
+    "name": "escorted",
+    "trans": [
+      "v. 护送"
+    ]
+  },
+  {
+    "name": "everyday",
+    "trans": [
+      "adj. 日常的"
+    ]
+  },
+  {
+    "name": "exhaustion",
+    "trans": [
+      "n. 疲惫"
+    ]
+  },
+  {
+    "name": "fabric",
+    "trans": [
+      "n. 织物"
+    ]
+  },
+  {
+    "name": "feedback",
+    "trans": [
+      "n. 反馈"
+    ]
+  },
+  {
+    "name": "firefighter",
+    "trans": [
+      "n. 消防员"
+    ]
+  },
+  {
+    "name": "firefighters",
+    "trans": [
+      "n. 消防员（复数）"
+    ]
+  },
+  {
+    "name": "fitness",
+    "trans": [
+      "n. 健身"
+    ]
+  },
+  {
+    "name": "flashlight",
+    "trans": [
+      "n. 手电筒"
+    ]
+  },
+  {
+    "name": "frustrated",
+    "trans": [
+      "adj. 沮丧的"
+    ]
+  },
+  {
+    "name": "gently",
+    "trans": [
+      "adv. 温柔地"
+    ]
+  },
+  {
+    "name": "gracefully",
+    "trans": [
+      "adv. 优雅地"
+    ]
+  },
+  {
+    "name": "graceless",
+    "trans": [
+      "adj. 不优雅的"
+    ]
+  },
+  {
+    "name": "grapefruit",
+    "trans": [
+      "n. 葡萄柚"
+    ]
+  },
+  {
+    "name": "gym",
+    "trans": [
+      "n. 健身房；体育馆"
+    ]
+  },
+  {
+    "name": "heartwarming",
+    "trans": [
+      "adj. 暖心的"
+    ]
+  },
+  {
+    "name": "hence",
+    "trans": [
+      "adv. 因此"
+    ]
+  },
+  {
+    "name": "hesitantly",
+    "trans": [
+      "adv. 犹豫地"
+    ]
+  },
+  {
+    "name": "hopefully",
+    "trans": [
+      "adv. 有希望地"
+    ]
+  },
+  {
+    "name": "indigenous",
+    "trans": [
+      "adj. 本土的"
+    ]
+  },
+  {
+    "name": "insensitivity",
+    "trans": [
+      "n. 不敏感"
+    ]
+  },
+  {
+    "name": "investment",
+    "trans": [
+      "n. 投资"
+    ]
+  },
+  {
+    "name": "invisible",
+    "trans": [
+      "adj. 看不见的"
+    ]
+  },
+  {
+    "name": "isolating",
+    "trans": [
+      "v. 隔离"
+    ]
+  },
+  {
+    "name": "lace",
+    "trans": [
+      "n. 蕾丝；鞋带"
+    ]
+  },
+  {
+    "name": "legacy",
+    "trans": [
+      "n. 遗产"
+    ]
+  },
+  {
+    "name": "messy",
+    "trans": [
+      "adj. 凌乱的"
+    ]
+  },
+  {
+    "name": "miners",
+    "trans": [
+      "n. 矿工（复数）"
+    ]
+  },
+  {
+    "name": "monsters",
+    "trans": [
+      "n. 怪物（复数）"
+    ]
+  },
+  {
+    "name": "moth",
+    "trans": [
+      "n. 飞蛾"
+    ]
+  },
+  {
+    "name": "motivated",
+    "trans": [
+      "adj. 有积极性的"
+    ]
+  },
+  {
+    "name": "muttered",
+    "trans": [
+      "v. 嘀咕"
+    ]
+  },
+  {
+    "name": "nightlight",
+    "trans": [
+      "n. 夜灯"
+    ]
+  },
+  {
+    "name": "nightmare",
+    "trans": [
+      "n. 噩梦"
+    ]
+  },
+  {
+    "name": "nutrition",
+    "trans": [
+      "n. 营养"
+    ]
+  },
+  {
+    "name": "occasional",
+    "trans": [
+      "adj. 偶尔的"
+    ]
+  },
+  {
+    "name": "opponent",
+    "trans": [
+      "n. 对手"
+    ]
+  },
+  {
+    "name": "orbisculate",
+    "trans": [
+      "v. （生造词）"
+    ]
+  },
+  {
+    "name": "overwhelming",
+    "trans": [
+      "adj. 压倒性的"
+    ]
+  },
+  {
+    "name": "perfection",
+    "trans": [
+      "n. 完美"
+    ]
+  },
+  {
+    "name": "possibilities",
+    "trans": [
+      "n. 可能性（复数）"
+    ]
+  },
+  {
+    "name": "possibility",
+    "trans": [
+      "n. 可能性"
+    ]
+  },
+  {
+    "name": "predictable",
+    "trans": [
+      "adj. 可预测的"
+    ]
+  },
+  {
+    "name": "privilege",
+    "trans": [
+      "n. 特权"
+    ]
+  },
+  {
+    "name": "rainforest",
+    "trans": [
+      "n. 雨林"
+    ]
+  },
+  {
+    "name": "ray",
+    "trans": [
+      "n. 光线"
+    ]
+  },
+  {
+    "name": "reflection",
+    "trans": [
+      "n. 反思；倒影"
+    ]
+  },
+  {
+    "name": "requirements",
+    "trans": [
+      "n. 要求（复数）"
+    ]
+  },
+  {
+    "name": "resilient",
+    "trans": [
+      "adj. 有韧性的"
+    ]
+  },
+  {
+    "name": "restless",
+    "trans": [
+      "adj. 焦躁的"
+    ]
+  },
+  {
+    "name": "reuse",
+    "trans": [
+      "v. 再利用"
+    ]
+  },
+  {
+    "name": "rid",
+    "trans": [
+      "v. 摆脱"
+    ]
+  },
+  {
+    "name": "ridiculous",
+    "trans": [
+      "adj. 荒谬的"
+    ]
+  },
+  {
+    "name": "rig",
+    "trans": [
+      "n. 装备；钻井架"
+    ]
+  },
+  {
+    "name": "rural",
+    "trans": [
+      "adj. 农村的"
+    ]
+  },
+  {
+    "name": "sandbags",
+    "trans": [
+      "n. 沙袋（复数）"
+    ]
+  },
+  {
+    "name": "scan",
+    "trans": [
+      "v. 扫描"
+    ]
+  },
+  {
+    "name": "sensitivity",
+    "trans": [
+      "n. 敏感性"
+    ]
+  },
+  {
+    "name": "shaky",
+    "trans": [
+      "adj. 摇晃的"
+    ]
+  },
+  {
+    "name": "shar",
+    "trans": [
+      "n. 鲨鱼"
+    ]
+  },
+  {
+    "name": "shoveling",
+    "trans": [
+      "v. 铲"
+    ]
+  },
+  {
+    "name": "shrugged",
+    "trans": [
+      "v. 耸肩"
+    ]
+  },
+  {
+    "name": "silky",
+    "trans": [
+      "adj. 丝滑的"
+    ]
+  },
+  {
+    "name": "sketching",
+    "trans": [
+      "v. 素描"
+    ]
+  },
+  {
+    "name": "skiing",
+    "trans": [
+      "n. 滑雪"
+    ]
+  },
+  {
+    "name": "smartphone",
+    "trans": [
+      "n. 智能手机"
+    ]
+  },
+  {
+    "name": "snowstorm",
+    "trans": [
+      "n. 暴风雪"
+    ]
+  },
+  {
+    "name": "speakers",
+    "trans": [
+      "n. 扬声器"
+    ]
+  },
+  {
+    "name": "squeeze",
+    "trans": [
+      "v. 挤压"
+    ]
+  },
+  {
+    "name": "sre",
+    "trans": [
+      "n. 站点可靠性工程"
+    ]
+  },
+  {
+    "name": "studiosity",
+    "trans": [
+      "n. 好学"
+    ]
+  },
+  {
+    "name": "stutter",
+    "trans": [
+      "v. 口吃"
+    ]
+  },
+  {
+    "name": "suro",
+    "trans": [
+      "n. 苏罗"
+    ]
+  },
+  {
+    "name": "tackle",
+    "trans": [
+      "v. 处理"
+    ]
+  },
+  {
+    "name": "teammate",
+    "trans": [
+      "n. 队友"
+    ]
+  },
+  {
+    "name": "teenage",
+    "trans": [
+      "adj. 青少年的"
+    ]
+  },
+  {
+    "name": "thefts",
+    "trans": [
+      "n. 盗窃"
+    ]
+  },
+  {
+    "name": "thomas",
+    "trans": [
+      "n. 托马斯"
+    ]
+  },
+  {
+    "name": "thrilled",
+    "trans": [
+      "adj. 兴奋的"
+    ]
+  },
+  {
+    "name": "tied",
+    "trans": [
+      "adj. 系住的"
+    ]
+  },
+  {
+    "name": "tighten",
+    "trans": [
+      "v. 收紧"
+    ]
+  },
+  {
+    "name": "touchdown",
+    "trans": [
+      "n. 触地得分"
+    ]
+  },
+  {
+    "name": "tournament",
+    "trans": [
+      "n. 锦标赛"
+    ]
+  },
+  {
+    "name": "ues",
+    "trans": [
+      "n. 用户设备"
+    ]
+  },
+  {
+    "name": "uncertain",
+    "trans": [
+      "adj. 不确定的"
+    ]
+  },
+  {
+    "name": "uncomfortable",
+    "trans": [
+      "adj. 不舒服的"
+    ]
+  },
+  {
+    "name": "underground",
+    "trans": [
+      "adj. 地下的"
+    ]
+  },
+  {
+    "name": "unexpectedly",
+    "trans": [
+      "adv. 意外地"
+    ]
+  },
+  {
+    "name": "unlike",
+    "trans": [
+      "prep. 不像"
+    ]
+  },
+  {
+    "name": "vase",
+    "trans": [
+      "n. 花瓶"
+    ]
+  },
+  {
+    "name": "vel",
+    "trans": [
+      "n. 维尔"
+    ]
+  },
+  {
+    "name": "visa",
+    "trans": [
+      "n. 签证"
+    ]
+  },
+  {
+    "name": "visitors",
+    "trans": [
+      "n. 访客"
+    ]
+  },
+  {
+    "name": "wan",
+    "trans": [
+      "n. 广域网"
+    ]
+  },
+  {
+    "name": "warehouse",
+    "trans": [
+      "n. 仓库"
+    ]
+  },
+  {
+    "name": "weeds",
+    "trans": [
+      "n. 杂草"
+    ]
+  },
+  {
+    "name": "weightlifting",
+    "trans": [
+      "n. 举重"
+    ]
+  },
+  {
+    "name": "weird",
+    "trans": [
+      "adj. 奇怪的；古怪的"
+    ]
+  },
+  {
+    "name": "wes",
+    "trans": [
+      "n. 韦斯"
+    ]
+  },
+  {
+    "name": "wherever",
+    "trans": [
+      "adv. 无论哪里"
+    ]
+  },
+  {
+    "name": "workshop",
+    "trans": [
+      "n. 工作坊"
+    ]
+  },
+  {
+    "name": "worthwhile",
+    "trans": [
+      "adj. 值得的"
+    ]
+  },
+  {
+    "name": "absorbing",
+    "trans": [
+      "adj. 引人入胜的"
+    ]
+  },
+  {
+    "name": "abundant",
+    "trans": [
+      "adj. 丰富的"
+    ]
+  },
+  {
+    "name": "accompany",
+    "trans": [
+      "v. 陪伴"
+    ]
+  },
+  {
+    "name": "according",
+    "trans": [
+      "adv. 根据"
+    ]
+  },
+  {
+    "name": "ached",
+    "trans": [
+      "v. 疼痛"
+    ]
+  },
+  {
+    "name": "advocating",
+    "trans": [
+      "v. 提倡"
+    ]
+  },
+  {
+    "name": "anew",
+    "trans": [
+      "adv. 重新"
+    ]
+  },
+  {
+    "name": "annoyance",
+    "trans": [
+      "n. 烦恼"
+    ]
+  },
+  {
+    "name": "apology",
+    "trans": [
+      "n. 道歉"
+    ]
+  },
+  {
+    "name": "artificial",
+    "trans": [
+      "adj. 人工的"
+    ]
+  },
+  {
+    "name": "artworks",
+    "trans": [
+      "n. 艺术品"
+    ]
+  },
+  {
+    "name": "assumption",
+    "trans": [
+      "n. 假设"
+    ]
+  },
+  {
+    "name": "automatically",
+    "trans": [
+      "adv. 自动地"
+    ]
+  },
+  {
+    "name": "awareness",
+    "trans": [
+      "n. 意识"
+    ]
+  },
+  {
+    "name": "awe",
+    "trans": [
+      "n. 敬畏"
+    ]
+  },
+  {
+    "name": "awed",
+    "trans": [
+      "adj. 敬畏的"
+    ]
+  },
+  {
+    "name": "backpack",
+    "trans": [
+      "n. 背包"
+    ]
+  },
+  {
+    "name": "bacteria",
+    "trans": [
+      "n. 细菌"
+    ]
+  },
+  {
+    "name": "bade",
+    "trans": [
+      "v. 吩咐"
+    ]
+  },
+  {
+    "name": "bevel",
+    "trans": [
+      "n. 斜角"
+    ]
+  },
+  {
+    "name": "boredom",
+    "trans": [
+      "n. 无聊"
+    ]
+  },
+  {
+    "name": "boundary",
+    "trans": [
+      "n. 边界"
+    ]
+  },
+  {
+    "name": "breakthrough",
+    "trans": [
+      "n. 突破"
+    ]
+  },
+  {
+    "name": "brightened",
+    "trans": [
+      "v. 变亮"
+    ]
+  },
+  {
+    "name": "brightens",
+    "trans": [
+      "v. 使明亮"
+    ]
+  },
+  {
+    "name": "british",
+    "trans": [
+      "adj. 英国的"
+    ]
+  },
+  {
+    "name": "bye",
+    "trans": [
+      "n. 再见"
+    ]
+  },
+  {
+    "name": "byway",
+    "trans": [
+      "n. 小路"
+    ]
+  },
+  {
+    "name": "cabin",
+    "trans": [
+      "n. 小屋"
+    ]
+  },
+  {
+    "name": "capabilities",
+    "trans": [
+      "n. 能力"
+    ]
+  },
+  {
+    "name": "carts",
+    "trans": [
+      "n. 手推车"
+    ]
+  },
+  {
+    "name": "carving",
+    "trans": [
+      "n. 雕刻"
+    ]
+  },
+  {
+    "name": "cautious",
+    "trans": [
+      "adj. 谨慎的"
+    ]
+  },
+  {
+    "name": "chatter",
+    "trans": [
+      "n. 闲聊"
+    ]
+  },
+  {
+    "name": "checkout",
+    "trans": [
+      "n. 结账"
+    ]
+  },
+  {
+    "name": "cheerleading",
+    "trans": [
+      "n. 啦啦队"
+    ]
+  },
+  {
+    "name": "cinnamon",
+    "trans": [
+      "n. 肉桂"
+    ]
+  },
+  {
+    "name": "circulation",
+    "trans": [
+      "n. 循环"
+    ]
+  },
+  {
+    "name": "clarity",
+    "trans": [
+      "n. 清晰"
+    ]
+  },
+  {
+    "name": "clip",
+    "trans": [
+      "n. 夹子"
+    ]
+  },
+  {
+    "name": "coconut",
+    "trans": [
+      "n. 椰子"
+    ]
+  },
+  {
+    "name": "conscious",
+    "trans": [
+      "adj. 有意识的"
+    ]
+  },
+  {
+    "name": "consistently",
+    "trans": [
+      "adv. 一致地"
+    ]
+  },
+  {
+    "name": "constructive",
+    "trans": [
+      "adj. 建设性的"
+    ]
+  },
+  {
+    "name": "contentment",
+    "trans": [
+      "n. 满足"
+    ]
+  },
+  {
+    "name": "conventional",
+    "trans": [
+      "adj. 传统的"
+    ]
+  },
+  {
+    "name": "cooperative",
+    "trans": [
+      "adj. 合作的"
+    ]
+  },
+  {
+    "name": "coordinated",
+    "trans": [
+      "adj. 协调的"
+    ]
+  },
+  {
+    "name": "creations",
+    "trans": [
+      "n. 创造物"
+    ]
+  },
+  {
+    "name": "darkness",
+    "trans": [
+      "n. 黑暗"
+    ]
+  },
+  {
+    "name": "dashed",
+    "trans": [
+      "v. 猛冲"
+    ]
+  },
+  {
+    "name": "dedication",
+    "trans": [
+      "n. 奉献"
+    ]
+  },
+  {
+    "name": "deeds",
+    "trans": [
+      "n. 事迹"
+    ]
+  },
+  {
+    "name": "definition",
+    "trans": [
+      "n. 定义"
+    ]
+  },
+  {
+    "name": "delicate",
+    "trans": [
+      "adj. 精致的"
+    ]
+  },
+  {
+    "name": "delivery",
+    "trans": [
+      "n. 递送"
+    ]
+  },
+  {
+    "name": "depression",
+    "trans": [
+      "n. 抑郁"
+    ]
+  },
+  {
+    "name": "disorders",
+    "trans": [
+      "n. 失调"
+    ]
+  },
+  {
+    "name": "drifted",
+    "trans": [
+      "v. 漂流"
+    ]
+  },
+  {
+    "name": "dynasty",
+    "trans": [
+      "n. 王朝"
+    ]
+  },
+  {
+    "name": "ecosystems",
+    "trans": [
+      "n. 生态系统"
+    ]
+  },
+  {
+    "name": "elsewhere",
+    "trans": [
+      "adv. 在别处"
+    ]
+  },
+  {
+    "name": "embarrassment",
+    "trans": [
+      "n. 尴尬"
+    ]
+  },
+  {
+    "name": "empathy",
+    "trans": [
+      "n. 共情"
+    ]
+  },
+  {
+    "name": "emphasizing",
+    "trans": [
+      "v. 强调"
+    ]
+  },
+  {
+    "name": "encounter",
+    "trans": [
+      "n. 相遇"
+    ]
+  },
+  {
+    "name": "envious",
+    "trans": [
+      "adj. 嫉妒的"
+    ]
+  },
+  {
+    "name": "esteem",
+    "trans": [
+      "n. 尊重"
+    ]
+  },
+  {
+    "name": "excessive",
+    "trans": [
+      "adj. 过度的"
+    ]
+  },
+  {
+    "name": "exploded",
+    "trans": [
+      "v. 爆炸"
+    ]
+  },
+  {
+    "name": "extracted",
+    "trans": [
+      "v. 提取"
+    ]
+  },
+  {
+    "name": "fabulous",
+    "trans": [
+      "adj. 极好的"
+    ]
+  },
+  {
+    "name": "faded",
+    "trans": [
+      "adj. 褪色的"
+    ]
+  },
+  {
+    "name": "fiction",
+    "trans": [
+      "n. 小说"
+    ]
+  },
+  {
+    "name": "fifteen",
+    "trans": [
+      "num. 十五"
+    ]
+  },
+  {
+    "name": "flawlessly",
+    "trans": [
+      "adv. 完美地"
+    ]
+  },
+  {
+    "name": "florals",
+    "trans": [
+      "n. 花卉"
+    ]
+  },
+  {
+    "name": "flounder",
+    "trans": [
+      "n. 比目鱼"
+    ]
+  },
+  {
+    "name": "footsteps",
+    "trans": [
+      "n. 脚步"
+    ]
+  },
+  {
+    "name": "forks",
+    "trans": [
+      "n. 叉子"
+    ]
+  },
+  {
+    "name": "foster",
+    "trans": [
+      "v. 培养"
+    ]
+  },
+  {
+    "name": "frequency",
+    "trans": [
+      "n. 频率"
+    ]
+  },
+  {
+    "name": "freshening",
+    "trans": [
+      "v. 使清新"
+    ]
+  },
+  {
+    "name": "frightened",
+    "trans": [
+      "adj. 害怕的"
+    ]
+  },
+  {
+    "name": "fur",
+    "trans": [
+      "n. 毛皮"
+    ]
+  },
+  {
+    "name": "gale",
+    "trans": [
+      "n. 大风"
+    ]
+  },
+  {
+    "name": "gasoline",
+    "trans": [
+      "n. 汽油"
+    ]
+  },
+  {
+    "name": "grab",
+    "trans": [
+      "v. 抓"
+    ]
+  },
+  {
+    "name": "grandpa",
+    "trans": [
+      "n. 爷爷"
+    ]
+  },
+  {
+    "name": "groceries",
+    "trans": [
+      "n. 杂货"
+    ]
+  },
+  {
+    "name": "growling",
+    "trans": [
+      "adj. 咆哮的"
+    ]
+  },
+  {
+    "name": "gymnasts",
+    "trans": [
+      "n. 体操运动员"
+    ]
+  },
+  {
+    "name": "halloween",
+    "trans": [
+      "n. 万圣节"
+    ]
+  },
+  {
+    "name": "hardship",
+    "trans": [
+      "n. 苦难"
+    ]
+  },
+  {
+    "name": "harem",
+    "trans": [
+      "n. 后宫"
+    ]
+  },
+  {
+    "name": "helmet",
+    "trans": [
+      "n. 头盔"
+    ]
+  },
+  {
+    "name": "heroic",
+    "trans": [
+      "adj. 英雄的"
+    ]
+  },
+  {
+    "name": "hesitant",
+    "trans": [
+      "adj. 犹豫的"
+    ]
+  },
+  {
+    "name": "hey",
+    "trans": [
+      "int. 嘿"
+    ]
+  },
+  {
+    "name": "highway",
+    "trans": [
+      "n. 公路"
+    ]
+  },
+  {
+    "name": "hips",
+    "trans": [
+      "n. 臀部"
+    ]
+  },
+  {
+    "name": "historical",
+    "trans": [
+      "adj. 历史的"
+    ]
+  },
+  {
+    "name": "hobbies",
+    "trans": [
+      "n. 爱好"
+    ]
+  },
+  {
+    "name": "hobby",
+    "trans": [
+      "n. 爱好"
+    ]
+  },
+  {
+    "name": "homemade",
+    "trans": [
+      "adj. 自制的"
+    ]
+  },
+  {
+    "name": "hopeless",
+    "trans": [
+      "adj. 绝望的"
+    ]
+  },
+  {
+    "name": "hug",
+    "trans": [
+      "v. 拥抱"
+    ]
+  },
+  {
+    "name": "humanity",
+    "trans": [
+      "n. 人性"
+    ]
+  },
+  {
+    "name": "humanoid",
+    "trans": [
+      "n. 人形机器人"
+    ]
+  },
+  {
+    "name": "humorous",
+    "trans": [
+      "adj. 幽默的"
+    ]
+  },
+  {
+    "name": "immersed",
+    "trans": [
+      "adj. 沉浸的"
+    ]
+  },
+  {
+    "name": "impressive",
+    "trans": [
+      "adj. 令人印象深刻的"
+    ]
+  },
+  {
+    "name": "initiative",
+    "trans": [
+      "n. 倡议"
+    ]
+  },
+  {
+    "name": "instant",
+    "trans": [
+      "n. 瞬间"
+    ]
+  },
+  {
+    "name": "instinct",
+    "trans": [
+      "n. 本能"
+    ]
+  },
+  {
+    "name": "instructor",
+    "trans": [
+      "n. 教练"
+    ]
+  },
+  {
+    "name": "insufficient",
+    "trans": [
+      "adj. 不足的"
+    ]
+  },
+  {
+    "name": "integrated",
+    "trans": [
+      "adj. 整合的"
+    ]
+  },
+  {
+    "name": "interactive",
+    "trans": [
+      "adj. 互动的"
+    ]
+  },
+  {
+    "name": "jaw",
+    "trans": [
+      "n. 下巴"
+    ]
+  },
+  {
+    "name": "jay",
+    "trans": [
+      "n. 松鸦"
+    ]
+  },
+  {
+    "name": "judgment",
+    "trans": [
+      "n. 判断"
+    ]
+  },
+  {
+    "name": "juggling",
+    "trans": [
+      "n. 杂耍"
+    ]
+  },
+  {
+    "name": "kayak",
+    "trans": [
+      "n. 皮划艇"
+    ]
+  },
+  {
+    "name": "keen",
+    "trans": [
+      "adj. 热切的"
+    ]
+  },
+  {
+    "name": "knit",
+    "trans": [
+      "v. 编织"
+    ]
+  },
+  {
+    "name": "knitting",
+    "trans": [
+      "n. 编织"
+    ]
+  },
+  {
+    "name": "landfill",
+    "trans": [
+      "n. 垃圾填埋场"
+    ]
+  },
+  {
+    "name": "login",
+    "trans": [
+      "n. 登录"
+    ]
+  },
+  {
+    "name": "loosened",
+    "trans": [
+      "v. 放松"
+    ]
+  },
+  {
+    "name": "machinery",
+    "trans": [
+      "n. 机械"
+    ]
+  },
+  {
+    "name": "mess",
+    "trans": [
+      "n. 混乱"
+    ]
+  },
+  {
+    "name": "meta",
+    "trans": [
+      "adj. 元"
+    ]
+  },
+  {
+    "name": "methodological",
+    "trans": [
+      "adj. 方法论的"
+    ]
+  },
+  {
+    "name": "mid",
+    "trans": [
+      "adj. 中间的"
+    ]
+  },
+  {
+    "name": "midnight",
+    "trans": [
+      "n. 午夜"
+    ]
+  },
+  {
+    "name": "mindful",
+    "trans": [
+      "adj. 留意的"
+    ]
+  },
+  {
+    "name": "mire",
+    "trans": [
+      "n. 泥潭"
+    ]
+  },
+  {
+    "name": "molecule",
+    "trans": [
+      "n. 分子"
+    ]
+  },
+  {
+    "name": "mourning",
+    "trans": [
+      "n. 哀悼"
+    ]
+  },
+  {
+    "name": "nap",
+    "trans": [
+      "n. 小睡"
+    ]
+  },
+  {
+    "name": "nervousness",
+    "trans": [
+      "n. 紧张"
+    ]
+  },
+  {
+    "name": "noisy",
+    "trans": [
+      "adj. 嘈杂的"
+    ]
+  },
+  {
+    "name": "nonsense",
+    "trans": [
+      "n. 废话"
+    ]
+  },
+  {
+    "name": "octopus",
+    "trans": [
+      "n. 章鱼"
+    ]
+  },
+  {
+    "name": "outstanding",
+    "trans": [
+      "adj. 杰出的"
+    ]
+  },
+  {
+    "name": "outstretched",
+    "trans": [
+      "adj. 伸展的"
+    ]
+  },
+  {
+    "name": "overlooked",
+    "trans": [
+      "adj. 被忽视的"
+    ]
+  },
+  {
+    "name": "overwhelmed",
+    "trans": [
+      "adj. 不知所措的"
+    ]
+  },
+  {
+    "name": "pants",
+    "trans": [
+      "n. 裤子"
+    ]
+  },
+  {
+    "name": "partially",
+    "trans": [
+      "adv. 部分地"
+    ]
+  },
+  {
+    "name": "participant",
+    "trans": [
+      "n. 参与者"
+    ]
+  },
+  {
+    "name": "peg",
+    "trans": [
+      "n. 钉子"
+    ]
+  },
+  {
+    "name": "persisted",
+    "trans": [
+      "v. 坚持"
+    ]
+  },
+  {
+    "name": "petal",
+    "trans": [
+      "n. 花瓣"
+    ]
+  },
+  {
+    "name": "pic",
+    "trans": [
+      "n. 照片"
+    ]
+  },
+  {
+    "name": "posters",
+    "trans": [
+      "n. 海报"
+    ]
+  },
+  {
+    "name": "preparation",
+    "trans": [
+      "n. 准备"
+    ]
+  },
+  {
+    "name": "prioritize",
+    "trans": [
+      "v. 优先考虑"
+    ]
+  },
+  {
+    "name": "productive",
+    "trans": [
+      "adj. 多产的"
+    ]
+  },
+  {
+    "name": "programme",
+    "trans": [
+      "n. 节目"
+    ]
+  },
+  {
+    "name": "psychological",
+    "trans": [
+      "adj. 心理的"
+    ]
+  },
+  {
+    "name": "reception",
+    "trans": [
+      "n. 接待"
+    ]
+  },
+  {
+    "name": "recognise",
+    "trans": [
+      "v. 识别"
+    ]
+  },
+  {
+    "name": "regional",
+    "trans": [
+      "adj. 地区的"
+    ]
+  },
+  {
+    "name": "renewable",
+    "trans": [
+      "adj. 可再生的"
+    ]
+  },
+  {
+    "name": "rethink",
+    "trans": [
+      "v. 重新思考"
+    ]
+  },
+  {
+    "name": "rhythm",
+    "trans": [
+      "n. 节奏"
+    ]
+  },
+  {
+    "name": "rival",
+    "trans": [
+      "n. 对手"
+    ]
+  },
+  {
+    "name": "rubbish",
+    "trans": [
+      "n. 垃圾"
+    ]
+  },
+  {
+    "name": "ruin",
+    "trans": [
+      "n. 废墟"
+    ]
+  },
+  {
+    "name": "satellites",
+    "trans": [
+      "n. 卫星"
+    ]
+  },
+  {
+    "name": "sensation",
+    "trans": [
+      "n. 感觉"
+    ]
+  },
+  {
+    "name": "sillier",
+    "trans": [
+      "adj. 更傻的"
+    ]
+  },
+  {
+    "name": "silly",
+    "trans": [
+      "adj. 傻的"
+    ]
+  },
+  {
+    "name": "sixteen",
+    "trans": [
+      "num. 十六"
+    ]
+  },
+  {
+    "name": "societal",
+    "trans": [
+      "adj. 社会的"
+    ]
+  },
+  {
+    "name": "softened",
+    "trans": [
+      "v. 变软"
+    ]
+  },
+  {
+    "name": "sometime",
+    "trans": [
+      "adv. 某时"
+    ]
+  },
+  {
+    "name": "sorrow",
+    "trans": [
+      "n. 悲伤"
+    ]
+  },
+  {
+    "name": "spacesuits",
+    "trans": [
+      "n. 宇航服"
+    ]
+  },
+  {
+    "name": "startup",
+    "trans": [
+      "n. 初创企业"
+    ]
+  },
+  {
+    "name": "starving",
+    "trans": [
+      "adj. 饥饿的"
+    ]
+  },
+  {
+    "name": "strokes",
+    "trans": [
+      "n. 中风"
+    ]
+  },
+  {
+    "name": "sustainability",
+    "trans": [
+      "n. 可持续性"
+    ]
+  },
+  {
+    "name": "swayed",
+    "trans": [
+      "v. 摇摆"
+    ]
+  },
+  {
+    "name": "sweating",
+    "trans": [
+      "v. 出汗"
+    ]
+  },
+  {
+    "name": "teammates",
+    "trans": [
+      "n. 队友"
+    ]
+  },
+  {
+    "name": "telescope",
+    "trans": [
+      "n. 望远镜"
+    ]
+  },
+  {
+    "name": "terrifying",
+    "trans": [
+      "adj. 可怕的"
+    ]
+  },
+  {
+    "name": "thoughtfully",
+    "trans": [
+      "adv. 深思熟虑地"
+    ]
+  },
+  {
+    "name": "tireless",
+    "trans": [
+      "adj. 不知疲倦的"
+    ]
+  },
+  {
+    "name": "towel",
+    "trans": [
+      "n. 毛巾"
+    ]
+  },
+  {
+    "name": "transformation",
+    "trans": [
+      "n. 转变"
+    ]
+  },
+  {
+    "name": "trash",
+    "trans": [
+      "n. 垃圾"
+    ]
+  },
+  {
+    "name": "travelers",
+    "trans": [
+      "n. 旅行者"
+    ]
+  },
+  {
+    "name": "ultrablack",
+    "trans": [
+      "adj. 超黑的"
+    ]
+  },
+  {
+    "name": "undoubtedly",
+    "trans": [
+      "adv. 毫无疑问地"
+    ]
+  },
+  {
+    "name": "uneasy",
+    "trans": [
+      "adj. 不安的"
+    ]
+  },
+  {
+    "name": "unsung",
+    "trans": [
+      "adj. 未被颂扬的"
+    ]
+  },
+  {
+    "name": "unwilling",
+    "trans": [
+      "adj. 不愿意的"
+    ]
+  },
+  {
+    "name": "unwillingly",
+    "trans": [
+      "adv. 不愿意地"
+    ]
+  },
+  {
+    "name": "vivid",
+    "trans": [
+      "adj. 生动的"
+    ]
+  },
+  {
+    "name": "ward",
+    "trans": [
+      "n. 病房"
+    ]
+  },
+  {
+    "name": "weed",
+    "trans": [
+      "n. 杂草"
+    ]
+  },
+  {
+    "name": "wetlands",
+    "trans": [
+      "n. 湿地"
+    ]
+  },
+  {
+    "name": "whales",
+    "trans": [
+      "n. 鲸鱼"
+    ]
+  },
+  {
+    "name": "wildlife",
+    "trans": [
+      "n. 野生动物"
+    ]
+  },
+  {
+    "name": "worldwide",
+    "trans": [
+      "adv. 全球地"
+    ]
+  },
+  {
+    "name": "worthy",
+    "trans": [
+      "adj. 值得的"
+    ]
+  },
+  {
+    "name": "zealand",
+    "trans": [
+      "n. 西兰"
+    ]
+  },
+  {
+    "name": "zebrafish",
+    "trans": [
+      "n. 斑马鱼"
+    ]
+  },
+  {
+    "name": "absorbed",
+    "trans": [
+      "adj. 全神贯注的"
+    ]
+  },
+  {
+    "name": "accelerate",
+    "trans": [
+      "v. 加速"
+    ]
+  },
+  {
+    "name": "acceptable",
+    "trans": [
+      "adj. 可接受的"
+    ]
+  },
+  {
+    "name": "accommodation",
+    "trans": [
+      "n. 住宿"
+    ]
+  },
+  {
+    "name": "accomplishment",
+    "trans": [
+      "n. 成就"
+    ]
+  },
+  {
+    "name": "acknowledged",
+    "trans": [
+      "v. 承认"
+    ]
+  },
+  {
+    "name": "actor",
+    "trans": [
+      "n. 演员"
+    ]
+  },
+  {
+    "name": "advocate",
+    "trans": [
+      "v. 提倡"
+    ]
+  },
+  {
+    "name": "advocated",
+    "trans": [
+      "v. 提倡"
+    ]
+  },
+  {
+    "name": "afterward",
+    "trans": [
+      "adv. 后来"
+    ]
+  },
+  {
+    "name": "aged",
+    "trans": [
+      "adj. 年老的"
+    ]
+  },
+  {
+    "name": "aging",
+    "trans": [
+      "n. 老化"
+    ]
+  },
+  {
+    "name": "aimlessly",
+    "trans": [
+      "adv. 漫无目的地"
+    ]
+  },
+  {
+    "name": "alongside",
+    "trans": [
+      "prep. 在旁边"
+    ]
+  },
+  {
+    "name": "aloud",
+    "trans": [
+      "adv. 出声地"
+    ]
+  },
+  {
+    "name": "alter",
+    "trans": [
+      "v. 改变"
+    ]
+  },
+  {
+    "name": "altering",
+    "trans": [
+      "v. 改变"
+    ]
+  },
+  {
+    "name": "americans",
+    "trans": [
+      "n. 美国人"
+    ]
+  },
+  {
+    "name": "animation",
+    "trans": [
+      "n. 动画"
+    ]
+  },
+  {
+    "name": "anymore",
+    "trans": [
+      "adv. 不再"
+    ]
+  },
+  {
+    "name": "aphasia",
+    "trans": [
+      "n. 失语症"
+    ]
+  },
+  {
+    "name": "approval",
+    "trans": [
+      "n. 批准"
+    ]
+  },
+  {
+    "name": "aquariums",
+    "trans": [
+      "n. 水族馆"
+    ]
+  },
+  {
+    "name": "arrogance",
+    "trans": [
+      "n. 傲慢"
+    ]
+  },
+  {
+    "name": "arrogant",
+    "trans": [
+      "adj. 傲慢的"
+    ]
+  },
+  {
+    "name": "ashamed",
+    "trans": [
+      "adj. 羞愧的"
+    ]
+  },
+  {
+    "name": "assistance",
+    "trans": [
+      "n. 帮助"
+    ]
+  },
+  {
+    "name": "athens",
+    "trans": [
+      "n. 雅典"
+    ]
+  },
+  {
+    "name": "atlanta",
+    "trans": [
+      "n. 亚特兰大"
+    ]
+  },
+  {
+    "name": "aurora",
+    "trans": [
+      "n. 极光"
+    ]
+  },
+  {
+    "name": "automated",
+    "trans": [
+      "adj. 自动化的"
+    ]
+  },
+  {
+    "name": "awaited",
+    "trans": [
+      "v. 等待"
+    ]
+  },
+  {
+    "name": "awaiting",
+    "trans": [
+      "v. 等待"
+    ]
+  },
+  {
+    "name": "awkwardly",
+    "trans": [
+      "adv. 尴尬地"
+    ]
+  },
+  {
+    "name": "badge",
+    "trans": [
+      "n. 徽章"
+    ]
+  },
+  {
+    "name": "bamboo",
+    "trans": [
+      "n. 竹子"
+    ]
+  },
+  {
+    "name": "bangs",
+    "trans": [
+      "n. 刘海"
+    ]
+  },
+  {
+    "name": "barefoot",
+    "trans": [
+      "adj. 赤脚的"
+    ]
+  },
+  {
+    "name": "basically",
+    "trans": [
+      "adv. 基本上"
+    ]
+  },
+  {
+    "name": "battlefield",
+    "trans": [
+      "n. 战场"
+    ]
+  },
+  {
+    "name": "beggars",
+    "trans": [
+      "n. 乞丐"
+    ]
+  },
+  {
+    "name": "behavior",
+    "trans": [
+      "n. 行为"
+    ]
+  },
+  {
+    "name": "beloved",
+    "trans": [
+      "adj. 钟爱的"
+    ]
+  },
+  {
+    "name": "bid",
+    "trans": [
+      "n. 出价"
+    ]
+  },
+  {
+    "name": "bind",
+    "trans": [
+      "v. 绑定"
+    ]
+  },
+  {
+    "name": "biopesticide",
+    "trans": [
+      "n. 生物农药"
+    ]
+  },
+  {
+    "name": "bitterness",
+    "trans": [
+      "n. 苦涩"
+    ]
+  },
+  {
+    "name": "blazing",
+    "trans": [
+      "adj.  blazing"
+    ]
+  },
+  {
+    "name": "blink",
+    "trans": [
+      "v. 眨眼"
+    ]
+  },
+  {
+    "name": "bloom",
+    "trans": [
+      "n. 花"
+    ]
+  },
+  {
+    "name": "blooms",
+    "trans": [
+      "n. 花朵"
+    ]
+  },
+  {
+    "name": "bold",
+    "trans": [
+      "adj. 大胆的"
+    ]
+  },
+  {
+    "name": "bonds",
+    "trans": [
+      "n. 纽带"
+    ]
+  },
+  {
+    "name": "bookmark",
+    "trans": [
+      "n. 书签"
+    ]
+  },
+  {
+    "name": "bookstore",
+    "trans": [
+      "n. 书店"
+    ]
+  },
+  {
+    "name": "boosted",
+    "trans": [
+      "v. 推动"
+    ]
+  },
+  {
+    "name": "bouvier",
+    "trans": [
+      "n. 布维尔"
+    ]
+  },
+  {
+    "name": "buddy",
+    "trans": [
+      "n. 伙伴"
+    ]
+  },
+  {
+    "name": "bulbs",
+    "trans": [
+      "n. 灯泡"
+    ]
+  },
+  {
+    "name": "bumps",
+    "trans": [
+      "n. 凸起"
+    ]
+  },
+  {
+    "name": "burnout",
+    "trans": [
+      "n. 倦怠"
+    ]
+  },
+  {
+    "name": "bush",
+    "trans": [
+      "n. 灌木"
+    ]
+  },
+  {
+    "name": "businessman",
+    "trans": [
+      "n. 商人"
+    ]
+  },
+  {
+    "name": "buzzed",
+    "trans": [
+      "v. 嗡嗡响"
+    ]
+  },
+  {
+    "name": "buzzer",
+    "trans": [
+      "n. 蜂鸣器"
+    ]
+  },
+  {
+    "name": "buzzing",
+    "trans": [
+      "v. 嗡嗡响"
+    ]
+  },
+  {
+    "name": "caesarean",
+    "trans": [
+      "n. 剖腹产"
+    ]
+  },
+  {
+    "name": "calendar",
+    "trans": [
+      "n. 日历"
+    ]
+  },
+  {
+    "name": "calmness",
+    "trans": [
+      "n. 平静"
+    ]
+  },
+  {
+    "name": "campground",
+    "trans": [
+      "n. 露营地"
+    ]
+  },
+  {
+    "name": "cashew",
+    "trans": [
+      "n. 腰果"
+    ]
+  },
+  {
+    "name": "casseroles",
+    "trans": [
+      "n. 砂锅菜"
+    ]
+  },
+  {
+    "name": "certificate",
+    "trans": [
+      "n. 证书"
+    ]
+  },
+  {
+    "name": "chairlift",
+    "trans": [
+      "n. 升降椅"
+    ]
+  },
+  {
+    "name": "chatgpt",
+    "trans": [
+      "n. ChatGPT"
+    ]
+  },
+  {
+    "name": "chatted",
+    "trans": [
+      "v. 聊天"
+    ]
+  },
+  {
+    "name": "chill",
+    "trans": [
+      "n. 寒冷"
+    ]
+  },
+  {
+    "name": "chin",
+    "trans": [
+      "n. 下巴"
+    ]
+  },
+  {
+    "name": "chronic",
+    "trans": [
+      "adj. 慢性的"
+    ]
+  },
+  {
+    "name": "circumstances",
+    "trans": [
+      "n. 情况"
+    ]
+  },
+  {
+    "name": "cites",
+    "trans": [
+      "v. 引用"
+    ]
+  },
+  {
+    "name": "clapping",
+    "trans": [
+      "v. 鼓掌"
+    ]
+  },
+  {
+    "name": "classification",
+    "trans": [
+      "n. 分类"
+    ]
+  },
+  {
+    "name": "clinical",
+    "trans": [
+      "adj. 临床的"
+    ]
+  },
+  {
+    "name": "coastal",
+    "trans": [
+      "adj. 沿海的"
+    ]
+  },
+  {
+    "name": "cobblestone",
+    "trans": [
+      "n. 鹅卵石"
+    ]
+  },
+  {
+    "name": "comic",
+    "trans": [
+      "n. 漫画"
+    ]
+  },
+  {
+    "name": "comics",
+    "trans": [
+      "n. 漫画"
+    ]
+  },
+  {
+    "name": "commute",
+    "trans": [
+      "n. 通勤"
+    ]
+  },
+  {
+    "name": "companion",
+    "trans": [
+      "n. 同伴"
+    ]
+  },
+  {
+    "name": "compass",
+    "trans": [
+      "n. 指南针"
+    ]
+  },
+  {
+    "name": "complaint",
+    "trans": [
+      "n. 投诉"
+    ]
+  },
+  {
+    "name": "completion",
+    "trans": [
+      "n. 完成"
+    ]
+  },
+  {
+    "name": "composting",
+    "trans": [
+      "n. 堆肥"
+    ]
+  },
+  {
+    "name": "concentrate",
+    "trans": [
+      "v. 集中"
+    ]
+  },
+  {
+    "name": "concentration",
+    "trans": [
+      "n. 集中"
+    ]
+  },
+  {
+    "name": "confusion",
+    "trans": [
+      "n. 混乱"
+    ]
+  },
+  {
+    "name": "conservation",
+    "trans": [
+      "n. 保护"
+    ]
+  },
+  {
+    "name": "consistent",
+    "trans": [
+      "adj. 一致的"
+    ]
+  },
+  {
+    "name": "containers",
+    "trans": [
+      "n. 容器"
+    ]
+  },
+  {
+    "name": "contrary",
+    "trans": [
+      "adj. 相反的"
+    ]
+  },
+  {
+    "name": "conversational",
+    "trans": [
+      "adj. 对话的"
+    ]
+  },
+  {
+    "name": "couch",
+    "trans": [
+      "n. 沙发"
+    ]
+  },
+  {
+    "name": "courageous",
+    "trans": [
+      "adj. 勇敢的"
+    ]
+  },
+  {
+    "name": "craft",
+    "trans": [
+      "n. 手艺"
+    ]
+  },
+  {
+    "name": "crafters",
+    "trans": [
+      "n. 手工艺人"
+    ]
+  },
+  {
+    "name": "crane",
+    "trans": [
+      "n. 起重机"
+    ]
+  },
+  {
+    "name": "criteria",
+    "trans": [
+      "n. 标准"
+    ]
+  },
+  {
+    "name": "cultivating",
+    "trans": [
+      "v. 培养"
+    ]
+  },
+  {
+    "name": "curly",
+    "trans": [
+      "adj. 卷曲的"
+    ]
+  },
+  {
+    "name": "cushion",
+    "trans": [
+      "n. 垫子"
+    ]
+  },
+  {
+    "name": "dalmatians",
+    "trans": [
+      "n. 斑点狗"
+    ]
+  },
+  {
+    "name": "defensive",
+    "trans": [
+      "adj. 防御的"
+    ]
+  },
+  {
+    "name": "delicacy",
+    "trans": [
+      "n. 美味"
+    ]
+  },
+  {
+    "name": "delighted",
+    "trans": [
+      "adj. 高兴的"
+    ]
+  },
+  {
+    "name": "delights",
+    "trans": [
+      "n. 乐趣"
+    ]
+  },
+  {
+    "name": "dementia",
+    "trans": [
+      "n. 痴呆"
+    ]
+  },
+  {
+    "name": "departure",
+    "trans": [
+      "n. 离开"
+    ]
+  },
+  {
+    "name": "despair",
+    "trans": [
+      "n. 绝望"
+    ]
+  },
+  {
+    "name": "desperation",
+    "trans": [
+      "n. 绝望"
+    ]
+  },
+  {
+    "name": "diagnosis",
+    "trans": [
+      "n. 诊断"
+    ]
+  },
+  {
+    "name": "died",
+    "trans": [
+      "v. 死亡"
+    ]
+  },
+  {
+    "name": "diners",
+    "trans": [
+      "n. 食客"
+    ]
+  },
+  {
+    "name": "disagreements",
+    "trans": [
+      "n. 分歧"
+    ]
+  },
+  {
+    "name": "distraction",
+    "trans": [
+      "n. 分心"
+    ]
+  },
+  {
+    "name": "dock",
+    "trans": [
+      "n. 码头"
+    ]
+  },
+  {
+    "name": "dome",
+    "trans": [
+      "n. 穹顶"
+    ]
+  },
+  {
+    "name": "doses",
+    "trans": [
+      "n. 剂量"
+    ]
+  },
+  {
+    "name": "downside",
+    "trans": [
+      "n. 缺点"
+    ]
+  },
+  {
+    "name": "driveway",
+    "trans": [
+      "n. 车道"
+    ]
+  },
+  {
+    "name": "dying",
+    "trans": [
+      "adj. 垂死的"
+    ]
+  },
+  {
+    "name": "editor",
+    "trans": [
+      "n. 编辑"
+    ]
+  },
+  {
+    "name": "eleven",
+    "trans": [
+      "num. 十一"
+    ]
+  },
+  {
+    "name": "enquiry",
+    "trans": [
+      "n. 询问"
+    ]
+  },
+  {
+    "name": "enthusiastic",
+    "trans": [
+      "adj. 热情的"
+    ]
+  },
+  {
+    "name": "envision",
+    "trans": [
+      "v. 设想"
+    ]
+  },
+  {
+    "name": "envy",
+    "trans": [
+      "n. 嫉妒"
+    ]
+  },
+  {
+    "name": "erupted",
+    "trans": [
+      "v. 爆发"
+    ]
+  },
+  {
+    "name": "essence",
+    "trans": [
+      "n. 本质"
+    ]
+  },
+  {
+    "name": "evacuate",
+    "trans": [
+      "v. 疏散"
+    ]
+  },
+  {
+    "name": "evacuation",
+    "trans": [
+      "n. 疏散"
+    ]
+  },
+  {
+    "name": "exhausting",
+    "trans": [
+      "adj. 令人筋疲力尽的"
+    ]
+  },
+  {
+    "name": "expectant",
+    "trans": [
+      "adj. 期待的"
+    ]
+  },
+  {
+    "name": "external",
+    "trans": [
+      "adj. 外部的"
+    ]
+  },
+  {
+    "name": "extinguisher",
+    "trans": [
+      "n. 灭火器"
+    ]
+  },
+  {
+    "name": "fabrics",
+    "trans": [
+      "n. 织物"
+    ]
+  },
+  {
+    "name": "facilitate",
+    "trans": [
+      "v. 促进"
+    ]
+  },
+  {
+    "name": "faculty",
+    "trans": [
+      "n. 全体教员"
+    ]
+  },
+  {
+    "name": "faint",
+    "trans": [
+      "v. 晕厥"
+    ]
+  },
+  {
+    "name": "faintly",
+    "trans": [
+      "adv. 微弱地"
+    ]
+  },
+  {
+    "name": "fairness",
+    "trans": [
+      "n. 公平"
+    ]
+  },
+  {
+    "name": "familiarity",
+    "trans": [
+      "n. 熟悉"
+    ]
+  },
+  {
+    "name": "farmland",
+    "trans": [
+      "n. 农田"
+    ]
+  },
+  {
+    "name": "fatherless",
+    "trans": [
+      "adj. 没有父亲的"
+    ]
+  },
+  {
+    "name": "feedings",
+    "trans": [
+      "n. 喂养"
+    ]
+  },
+  {
+    "name": "finalists",
+    "trans": [
+      "n. 决赛选手"
+    ]
+  },
+  {
+    "name": "findings",
+    "trans": [
+      "n. 发现"
+    ]
+  },
+  {
+    "name": "fingernail",
+    "trans": [
+      "n. 指甲"
+    ]
+  },
+  {
+    "name": "fist",
+    "trans": [
+      "n. 拳头"
+    ]
+  },
+  {
+    "name": "flaw",
+    "trans": [
+      "n. 瑕疵"
+    ]
+  },
+  {
+    "name": "flushed",
+    "trans": [
+      "adj. 脸红的"
+    ]
+  },
+  {
+    "name": "foresight",
+    "trans": [
+      "n. 远见"
+    ]
+  },
+  {
+    "name": "forgiveness",
+    "trans": [
+      "n. 原谅"
+    ]
+  },
+  {
+    "name": "forklifts",
+    "trans": [
+      "n. 叉车"
+    ]
+  },
+  {
+    "name": "fourteen",
+    "trans": [
+      "num. 十四"
+    ]
+  },
+  {
+    "name": "fructose",
+    "trans": [
+      "n. 果糖"
+    ]
+  },
+  {
+    "name": "frustrating",
+    "trans": [
+      "adj. 令人沮丧的"
+    ]
+  },
+  {
+    "name": "frustration",
+    "trans": [
+      "n. 挫折"
+    ]
+  },
+  {
+    "name": "futility",
+    "trans": [
+      "n. 徒劳"
+    ]
+  },
+  {
+    "name": "gardeners",
+    "trans": [
+      "n. 园丁"
+    ]
+  },
+  {
+    "name": "gateway",
+    "trans": [
+      "n. 门户"
+    ]
+  },
+  {
+    "name": "generalization",
+    "trans": [
+      "n. 概括"
+    ]
+  },
+  {
+    "name": "genetic",
+    "trans": [
+      "adj. 遗传的"
+    ]
+  },
+  {
+    "name": "glaring",
+    "trans": [
+      "adj. 耀眼的"
+    ]
+  },
+  {
+    "name": "glucose",
+    "trans": [
+      "n. 葡萄糖"
+    ]
+  },
+  {
+    "name": "goodness",
+    "trans": [
+      "n. 善良"
+    ]
+  },
+  {
+    "name": "grabbing",
+    "trans": [
+      "v. 抓住"
+    ]
+  },
+  {
+    "name": "grandma",
+    "trans": [
+      "n. 奶奶"
+    ]
+  },
+  {
+    "name": "guilty",
+    "trans": [
+      "adj. 内疚的"
+    ]
+  },
+  {
+    "name": "gushing",
+    "trans": [
+      "adj. 涌出的"
+    ]
+  },
+  {
+    "name": "halfway",
+    "trans": [
+      "adv. 半路"
+    ]
+  },
+  {
+    "name": "handbag",
+    "trans": [
+      "n. 手提包"
+    ]
+  },
+  {
+    "name": "handcrafting",
+    "trans": [
+      "n. 手工制作"
+    ]
+  },
+  {
+    "name": "handkerchief",
+    "trans": [
+      "n. 手帕"
+    ]
+  },
+  {
+    "name": "handshake",
+    "trans": [
+      "n. 握手"
+    ]
+  },
+  {
+    "name": "handshakes",
+    "trans": [
+      "n. 握手"
+    ]
+  },
+  {
+    "name": "harbor",
+    "trans": [
+      "n. 港口"
+    ]
+  },
+  {
+    "name": "hare",
+    "trans": [
+      "n. 野兔"
+    ]
+  },
+  {
+    "name": "harmful",
+    "trans": [
+      "adj. 有害的"
+    ]
+  },
+  {
+    "name": "hateful",
+    "trans": [
+      "adj. 可恨的"
+    ]
+  },
+  {
+    "name": "hay",
+    "trans": [
+      "n. 干草"
+    ]
+  },
+  {
+    "name": "heir",
+    "trans": [
+      "n. 继承人"
+    ]
+  },
+  {
+    "name": "heroism",
+    "trans": [
+      "n. 英雄主义"
+    ]
+  },
+  {
+    "name": "hint",
+    "trans": [
+      "n. 暗示"
+    ]
+  },
+  {
+    "name": "historic",
+    "trans": [
+      "adj. 历史性的"
+    ]
+  },
+  {
+    "name": "homework",
+    "trans": [
+      "n. 作业"
+    ]
+  },
+  {
+    "name": "honesty",
+    "trans": [
+      "n. 诚实"
+    ]
+  },
+  {
+    "name": "horrified",
+    "trans": [
+      "adj. 惊恐的"
+    ]
+  },
+  {
+    "name": "hosepipe",
+    "trans": [
+      "n. 水管"
+    ]
+  },
+  {
+    "name": "housework",
+    "trans": [
+      "n. 家务"
+    ]
+  },
+  {
+    "name": "hub",
+    "trans": [
+      "n. 中心"
+    ]
+  },
+  {
+    "name": "huddled",
+    "trans": [
+      "v. 蜷缩"
+    ]
+  },
+  {
+    "name": "hugged",
+    "trans": [
+      "v. 拥抱"
+    ]
+  },
+  {
+    "name": "hugs",
+    "trans": [
+      "n. 拥抱"
+    ]
+  },
+  {
+    "name": "humble",
+    "trans": [
+      "adj. 谦虚的"
+    ]
+  },
+  {
+    "name": "humbled",
+    "trans": [
+      "adj. 谦卑的"
+    ]
+  },
+  {
+    "name": "hypothesis",
+    "trans": [
+      "n. 假设"
+    ]
+  },
+  {
+    "name": "icon",
+    "trans": [
+      "n. 图标"
+    ]
+  },
+  {
+    "name": "imaginations",
+    "trans": [
+      "n. 想象力（复数）"
+    ]
+  },
+  {
+    "name": "immune",
+    "trans": [
+      "adj. 免疫的"
+    ]
+  },
+  {
+    "name": "impatience",
+    "trans": [
+      "n. 不耐烦"
+    ]
+  },
+  {
+    "name": "imperfections",
+    "trans": [
+      "n. 不完美"
+    ]
+  },
+  {
+    "name": "implants",
+    "trans": [
+      "n. 植入物"
+    ]
+  },
+  {
+    "name": "impressively",
+    "trans": [
+      "adv. 令人印象深刻地"
+    ]
+  },
+  {
+    "name": "improbable",
+    "trans": [
+      "adj. 不大可能的"
+    ]
+  },
+  {
+    "name": "inappropriate",
+    "trans": [
+      "adj. 不合适的"
+    ]
+  },
+  {
+    "name": "inborn",
+    "trans": [
+      "adj. 天生的"
+    ]
+  },
+  {
+    "name": "inches",
+    "trans": [
+      "n. 英寸"
+    ]
+  },
+  {
+    "name": "indifferent",
+    "trans": [
+      "adj. 冷漠的"
+    ]
+  },
+  {
+    "name": "insects",
+    "trans": [
+      "n. 昆虫"
+    ]
+  },
+  {
+    "name": "intangible",
+    "trans": [
+      "adj. 无形的"
+    ]
+  },
+  {
+    "name": "integrate",
+    "trans": [
+      "v. 整合"
+    ]
+  },
+  {
+    "name": "integrity",
+    "trans": [
+      "n. 正直"
+    ]
+  },
+  {
+    "name": "interact",
+    "trans": [
+      "v. 互动"
+    ]
+  },
+  {
+    "name": "interaction",
+    "trans": [
+      "n. 互动"
+    ]
+  },
+  {
+    "name": "interfere",
+    "trans": [
+      "v. 干涉"
+    ]
+  },
+  {
+    "name": "interruptions",
+    "trans": [
+      "n. 打断"
+    ]
+  },
+  {
+    "name": "intimate",
+    "trans": [
+      "adj. 亲密的"
+    ]
+  },
+  {
+    "name": "isolate",
+    "trans": [
+      "v. 隔离"
+    ]
+  },
+  {
+    "name": "jasper",
+    "trans": [
+      "n. 碧玉"
+    ]
+  },
+  {
+    "name": "jokingly",
+    "trans": [
+      "adv. 开玩笑地"
+    ]
+  },
+  {
+    "name": "judgments",
+    "trans": [
+      "n. 判断（复数）"
+    ]
+  },
+  {
+    "name": "jungle",
+    "trans": [
+      "n. 丛林"
+    ]
+  },
+  {
+    "name": "kilometers",
+    "trans": [
+      "n. 公里"
+    ]
+  },
+  {
+    "name": "kilometre",
+    "trans": [
+      "n. 公里"
+    ]
+  },
+  {
+    "name": "kingdoms",
+    "trans": [
+      "n. 王国"
+    ]
+  },
+  {
+    "name": "kit",
+    "trans": [
+      "n. 工具包"
+    ]
+  },
+  {
+    "name": "knight",
+    "trans": [
+      "n. 骑士"
+    ]
+  },
+  {
+    "name": "landscape",
+    "trans": [
+      "n. 风景"
+    ]
+  },
+  {
+    "name": "lanka",
+    "trans": [
+      "n. 兰卡"
+    ]
+  },
+  {
+    "name": "lap",
+    "trans": [
+      "n. 大腿"
+    ]
+  },
+  {
+    "name": "laptop",
+    "trans": [
+      "n. 笔记本电脑"
+    ]
+  },
+  {
+    "name": "lasagna",
+    "trans": [
+      "n. 千层面"
+    ]
+  },
+  {
+    "name": "laundry",
+    "trans": [
+      "n. 洗衣"
+    ]
+  },
+  {
+    "name": "leftover",
+    "trans": [
+      "n. 剩菜"
+    ]
+  },
+  {
+    "name": "lightning",
+    "trans": [
+      "n. 闪电"
+    ]
+  },
+  {
+    "name": "lightweight",
+    "trans": [
+      "adj. 轻量的"
+    ]
+  },
+  {
+    "name": "liquid",
+    "trans": [
+      "n. 液体"
+    ]
+  },
+  {
+    "name": "literary",
+    "trans": [
+      "adj. 文学的"
+    ]
+  },
+  {
+    "name": "lobster",
+    "trans": [
+      "n. 龙虾"
+    ]
+  },
+  {
+    "name": "lodge",
+    "trans": [
+      "n. 小屋"
+    ]
+  },
+  {
+    "name": "lone",
+    "trans": [
+      "adj. 孤独的"
+    ]
+  },
+  {
+    "name": "losers",
+    "trans": [
+      "n. 失败者"
+    ]
+  },
+  {
+    "name": "makers",
+    "trans": [
+      "n. 制造者"
+    ]
+  },
+  {
+    "name": "mare",
+    "trans": [
+      "n. 母马"
+    ]
+  },
+  {
+    "name": "marine",
+    "trans": [
+      "n. 海洋"
+    ]
+  },
+  {
+    "name": "martial",
+    "trans": [
+      "adj. 武术的"
+    ]
+  },
+  {
+    "name": "massive",
+    "trans": [
+      "adj. 巨大的"
+    ]
+  },
+  {
+    "name": "mastery",
+    "trans": [
+      "n. 精通"
+    ]
+  },
+  {
+    "name": "mate",
+    "trans": [
+      "n. 伙伴"
+    ]
+  },
+  {
+    "name": "mathematical",
+    "trans": [
+      "adj. 数学的"
+    ]
+  },
+  {
+    "name": "mathematics",
+    "trans": [
+      "n. 数学"
+    ]
+  },
+  {
+    "name": "matted",
+    "trans": [
+      "adj. 缠结的"
+    ]
+  },
+  {
+    "name": "measurement",
+    "trans": [
+      "n. 测量"
+    ]
+  },
+  {
+    "name": "meatballs",
+    "trans": [
+      "n. 肉丸"
+    ]
+  },
+  {
+    "name": "melted",
+    "trans": [
+      "adj. 融化的"
+    ]
+  },
+  {
+    "name": "meme",
+    "trans": [
+      "n. 梗"
+    ]
+  },
+  {
+    "name": "memorable",
+    "trans": [
+      "adj. 难忘的"
+    ]
+  },
+  {
+    "name": "merry",
+    "trans": [
+      "adj. 快乐的"
+    ]
+  },
+  {
+    "name": "meter",
+    "trans": [
+      "n. 米"
+    ]
+  },
+  {
+    "name": "metrics",
+    "trans": [
+      "n. 指标"
+    ]
+  },
+  {
+    "name": "metro",
+    "trans": [
+      "n. 地铁"
+    ]
+  },
+  {
+    "name": "mice",
+    "trans": [
+      "n. 老鼠"
+    ]
+  },
+  {
+    "name": "midst",
+    "trans": [
+      "n. 中间"
+    ]
+  },
+  {
+    "name": "mindset",
+    "trans": [
+      "n. 心态"
+    ]
+  },
+  {
+    "name": "miserable",
+    "trans": [
+      "adj. 悲惨的；痛苦的"
+    ]
+  },
+  {
+    "name": "mocked",
+    "trans": [
+      "v. 嘲笑"
+    ]
+  },
+  {
+    "name": "moderately",
+    "trans": [
+      "adv. 适度地"
+    ]
+  },
+  {
+    "name": "monumental",
+    "trans": [
+      "adj. 巨大的"
+    ]
+  },
+  {
+    "name": "motto",
+    "trans": [
+      "n. 座右铭"
+    ]
+  },
+  {
+    "name": "mountainside",
+    "trans": [
+      "n. 山腰"
+    ]
+  },
+  {
+    "name": "movies",
+    "trans": [
+      "n. 电影"
+    ]
+  },
+  {
+    "name": "murmured",
+    "trans": [
+      "v. 低语"
+    ]
+  },
+  {
+    "name": "mysterious",
+    "trans": [
+      "adj. 神秘的"
+    ]
+  },
+  {
+    "name": "narrator",
+    "trans": [
+      "n. 叙述者"
+    ]
+  },
+  {
+    "name": "navigation",
+    "trans": [
+      "n. 导航"
+    ]
+  },
+  {
+    "name": "newfound",
+    "trans": [
+      "adj. 新发现的"
+    ]
+  },
+  {
+    "name": "nicknamed",
+    "trans": [
+      "v. 起绰号"
+    ]
+  },
+  {
+    "name": "noodles",
+    "trans": [
+      "n. 面条"
+    ]
+  },
+  {
+    "name": "normalize",
+    "trans": [
+      "v. 正常化"
+    ]
+  },
+  {
+    "name": "northeastern",
+    "trans": [
+      "adj. 东北的"
+    ]
+  },
+  {
+    "name": "notebook",
+    "trans": [
+      "n. 笔记本"
+    ]
+  },
+  {
+    "name": "notwithstanding",
+    "trans": [
+      "prep. 尽管"
+    ]
+  },
+  {
+    "name": "nowadays",
+    "trans": [
+      "adv. 如今"
+    ]
+  },
+  {
+    "name": "nuggets",
+    "trans": [
+      "n. 鸡块"
+    ]
+  },
+  {
+    "name": "numerous",
+    "trans": [
+      "adj. 众多的"
+    ]
+  },
+  {
+    "name": "nurturing",
+    "trans": [
+      "n. 培育"
+    ]
+  },
+  {
+    "name": "obesity",
+    "trans": [
+      "n. 肥胖"
+    ]
+  },
+  {
+    "name": "obsessed",
+    "trans": [
+      "adj. 痴迷的"
+    ]
+  },
+  {
+    "name": "obstacles",
+    "trans": [
+      "n. 障碍"
+    ]
+  },
+  {
+    "name": "oneself",
+    "trans": [
+      "pron. 自己"
+    ]
+  },
+  {
+    "name": "onward",
+    "trans": [
+      "adv. 向前"
+    ]
+  },
+  {
+    "name": "openness",
+    "trans": [
+      "n. 开放"
+    ]
+  },
+  {
+    "name": "operator",
+    "trans": [
+      "n. 操作员"
+    ]
+  },
+  {
+    "name": "optimism",
+    "trans": [
+      "n. 乐观"
+    ]
+  },
+  {
+    "name": "orbisculated",
+    "trans": [
+      "v. （生造词）"
+    ]
+  },
+  {
+    "name": "outlet",
+    "trans": [
+      "n. 出口"
+    ]
+  },
+  {
+    "name": "overthinking",
+    "trans": [
+      "n. 过度思考"
+    ]
+  },
+  {
+    "name": "pallets",
+    "trans": [
+      "n. 托盘"
+    ]
+  },
+  {
+    "name": "panicking",
+    "trans": [
+      "v. 恐慌"
+    ]
+  },
+  {
+    "name": "paywalls",
+    "trans": [
+      "n. 付费墙"
+    ]
+  },
+  {
+    "name": "pea",
+    "trans": [
+      "n. 豌豆"
+    ]
+  },
+  {
+    "name": "pear",
+    "trans": [
+      "n. 梨"
+    ]
+  },
+  {
+    "name": "pedal",
+    "trans": [
+      "n. 踏板"
+    ]
+  },
+  {
+    "name": "pedals",
+    "trans": [
+      "n. 踏板"
+    ]
+  },
+  {
+    "name": "pending",
+    "trans": [
+      "adj. 待定的"
+    ]
+  },
+  {
+    "name": "perceived",
+    "trans": [
+      "v. 感知"
+    ]
+  },
+  {
+    "name": "perception",
+    "trans": [
+      "n. 感知"
+    ]
+  },
+  {
+    "name": "perseverance",
+    "trans": [
+      "n. 毅力"
+    ]
+  },
+  {
+    "name": "persuasive",
+    "trans": [
+      "adj. 有说服力的"
+    ]
+  },
+  {
+    "name": "phobias",
+    "trans": [
+      "n. 恐惧症"
+    ]
+  },
+  {
+    "name": "photography",
+    "trans": [
+      "n. 摄影"
+    ]
+  },
+  {
+    "name": "picky",
+    "trans": [
+      "adj. 挑剔的"
+    ]
+  },
+  {
+    "name": "pillowy",
+    "trans": [
+      "adj. 柔软的"
+    ]
+  },
+  {
+    "name": "playdates",
+    "trans": [
+      "n. 玩耍约会"
+    ]
+  },
+  {
+    "name": "playful",
+    "trans": [
+      "adj. 调皮的"
+    ]
+  },
+  {
+    "name": "playground",
+    "trans": [
+      "n. 操场"
+    ]
+  },
+  {
+    "name": "plugged",
+    "trans": [
+      "adj. 插上的"
+    ]
+  },
+  {
+    "name": "polishing",
+    "trans": [
+      "v. 抛光"
+    ]
+  },
+  {
+    "name": "pond",
+    "trans": [
+      "n. 池塘"
+    ]
+  },
+  {
+    "name": "popularity",
+    "trans": [
+      "n. 流行"
+    ]
+  },
+  {
+    "name": "porcelain",
+    "trans": [
+      "n. 瓷器"
+    ]
+  },
+  {
+    "name": "pose",
+    "trans": [
+      "v. 摆姿势"
+    ]
+  },
+  {
+    "name": "poses",
+    "trans": [
+      "n. 姿势"
+    ]
+  },
+  {
+    "name": "practised",
+    "trans": [
+      "v. 练习"
+    ]
+  },
+  {
+    "name": "presentation",
+    "trans": [
+      "n. 展示"
+    ]
+  },
+  {
+    "name": "pristine",
+    "trans": [
+      "adj. 原始的"
+    ]
+  },
+  {
+    "name": "probable",
+    "trans": [
+      "adj. 可能的"
+    ]
+  },
+  {
+    "name": "promotion",
+    "trans": [
+      "n. 促销"
+    ]
+  },
+  {
+    "name": "pronounce",
+    "trans": [
+      "v. 发音"
+    ]
+  },
+  {
+    "name": "prosody",
+    "trans": [
+      "n. 韵律"
+    ]
+  },
+  {
+    "name": "prosperity",
+    "trans": [
+      "n. 繁荣"
+    ]
+  },
+  {
+    "name": "puppy",
+    "trans": [
+      "n. 小狗"
+    ]
+  },
+  {
+    "name": "purring",
+    "trans": [
+      "n. 呼噜声"
+    ]
+  },
+  {
+    "name": "purse",
+    "trans": [
+      "n. 钱包"
+    ]
+  },
+  {
+    "name": "questionings",
+    "trans": [
+      "n. 质问"
+    ]
+  },
+  {
+    "name": "quicksand",
+    "trans": [
+      "n. 流沙"
+    ]
+  },
+  {
+    "name": "rag",
+    "trans": [
+      "n. 抹布"
+    ]
+  },
+  {
+    "name": "raincoat",
+    "trans": [
+      "n. 雨衣"
+    ]
+  },
+  {
+    "name": "rays",
+    "trans": [
+      "n. 光线"
+    ]
+  },
+  {
+    "name": "realising",
+    "trans": [
+      "v. 意识到"
+    ]
+  },
+  {
+    "name": "realization",
+    "trans": [
+      "n. 实现"
+    ]
+  },
+  {
+    "name": "rears",
+    "trans": [
+      "n. 后部"
+    ]
+  },
+  {
+    "name": "recipes",
+    "trans": [
+      "n. 食谱"
+    ]
+  },
+  {
+    "name": "recitation",
+    "trans": [
+      "n. 背诵"
+    ]
+  },
+  {
+    "name": "recite",
+    "trans": [
+      "v. 背诵"
+    ]
+  },
+  {
+    "name": "recited",
+    "trans": [
+      "v. 背诵"
+    ]
+  },
+  {
+    "name": "reconnecting",
+    "trans": [
+      "v. 重新连接"
+    ]
+  },
+  {
+    "name": "reconstruct",
+    "trans": [
+      "v. 重建"
+    ]
+  },
+  {
+    "name": "recreated",
+    "trans": [
+      "v. 重建"
+    ]
+  },
+  {
+    "name": "recycles",
+    "trans": [
+      "v. 回收"
+    ]
+  },
+  {
+    "name": "redefine",
+    "trans": [
+      "v. 重新定义"
+    ]
+  },
+  {
+    "name": "redefining",
+    "trans": [
+      "v. 重新定义"
+    ]
+  },
+  {
+    "name": "reduction",
+    "trans": [
+      "n. 减少"
+    ]
+  },
+  {
+    "name": "reflective",
+    "trans": [
+      "adj. 反思的"
+    ]
+  },
+  {
+    "name": "refund",
+    "trans": [
+      "n. 退款"
+    ]
+  },
+  {
+    "name": "regardless",
+    "trans": [
+      "adv. 不管"
+    ]
+  },
+  {
+    "name": "relaxation",
+    "trans": [
+      "n. 放松"
+    ]
+  },
+  {
+    "name": "relieve",
+    "trans": [
+      "v. 缓解"
+    ]
+  },
+  {
+    "name": "relive",
+    "trans": [
+      "v. 重温"
+    ]
+  },
+  {
+    "name": "repurpose",
+    "trans": [
+      "v. 改造"
+    ]
+  },
+  {
+    "name": "requirement",
+    "trans": [
+      "n. 要求"
+    ]
+  },
+  {
+    "name": "reservation",
+    "trans": [
+      "n. 预订"
+    ]
+  },
+  {
+    "name": "resident",
+    "trans": [
+      "n. 居民"
+    ]
+  },
+  {
+    "name": "residential",
+    "trans": [
+      "adj. 住宅的"
+    ]
+  },
+  {
+    "name": "resolve",
+    "trans": [
+      "v. 解决"
+    ]
+  },
+  {
+    "name": "respectful",
+    "trans": [
+      "adj. 尊重的"
+    ]
+  },
+  {
+    "name": "reunion",
+    "trans": [
+      "n. 团聚"
+    ]
+  },
+  {
+    "name": "reunited",
+    "trans": [
+      "v. 重聚"
+    ]
+  },
+  {
+    "name": "revolutionize",
+    "trans": [
+      "v. 革命化"
+    ]
+  },
+  {
+    "name": "rhythmic",
+    "trans": [
+      "adj. 节奏的"
+    ]
+  },
+  {
+    "name": "rooftop",
+    "trans": [
+      "n. 屋顶"
+    ]
+  },
+  {
+    "name": "rude",
+    "trans": [
+      "adj. 粗鲁的"
+    ]
+  },
+  {
+    "name": "ruined",
+    "trans": [
+      "adj. 毁坏的"
+    ]
+  },
+  {
+    "name": "sandwich",
+    "trans": [
+      "n. 三明治"
+    ]
+  },
+  {
+    "name": "satellite",
+    "trans": [
+      "n. 卫星"
+    ]
+  },
+  {
+    "name": "satisfaction",
+    "trans": [
+      "n. 满意"
+    ]
+  },
+  {
+    "name": "saturated",
+    "trans": [
+      "adj. 饱和的"
+    ]
+  },
+  {
+    "name": "savings",
+    "trans": [
+      "n. 储蓄"
+    ]
+  },
+  {
+    "name": "sayings",
+    "trans": [
+      "n. 谚语"
+    ]
+  },
+  {
+    "name": "scarce",
+    "trans": [
+      "adj. 稀缺的"
+    ]
+  },
+  {
+    "name": "scarf",
+    "trans": [
+      "n. 围巾"
+    ]
+  },
+  {
+    "name": "schoolbags",
+    "trans": [
+      "n. 书包"
+    ]
+  },
+  {
+    "name": "scrolling",
+    "trans": [
+      "v. 滚动"
+    ]
+  },
+  {
+    "name": "sculptures",
+    "trans": [
+      "n. 雕塑"
+    ]
+  },
+  {
+    "name": "secondhand",
+    "trans": [
+      "adj. 二手的"
+    ]
+  },
+  {
+    "name": "secretive",
+    "trans": [
+      "adj. 秘密的"
+    ]
+  },
+  {
+    "name": "seemingly",
+    "trans": [
+      "adv. 看似"
+    ]
+  },
+  {
+    "name": "sellers",
+    "trans": [
+      "n. 卖家"
+    ]
+  },
+  {
+    "name": "semester",
+    "trans": [
+      "n. 学期"
+    ]
+  },
+  {
+    "name": "sensory",
+    "trans": [
+      "adj. 感官的"
+    ]
+  },
+  {
+    "name": "shadowy",
+    "trans": [
+      "adj. 阴暗的"
+    ]
+  },
+  {
+    "name": "shareholder",
+    "trans": [
+      "n. 股东"
+    ]
+  },
+  {
+    "name": "sharpness",
+    "trans": [
+      "n. 锋利"
+    ]
+  },
+  {
+    "name": "shoeshine",
+    "trans": [
+      "n. 擦鞋"
+    ]
+  },
+  {
+    "name": "shovel",
+    "trans": [
+      "n. 铲子"
+    ]
+  },
+  {
+    "name": "showcase",
+    "trans": [
+      "n. 展示"
+    ]
+  },
+  {
+    "name": "sidewalk",
+    "trans": [
+      "n. 人行道"
+    ]
+  },
+  {
+    "name": "significance",
+    "trans": [
+      "n. 意义"
+    ]
+  },
+  {
+    "name": "sketches",
+    "trans": [
+      "n. 素描"
+    ]
+  },
+  {
+    "name": "skipped",
+    "trans": [
+      "v. 跳过"
+    ]
+  },
+  {
+    "name": "slogan",
+    "trans": [
+      "n. 标语"
+    ]
+  },
+  {
+    "name": "sluggish",
+    "trans": [
+      "adj. 迟缓的"
+    ]
+  },
+  {
+    "name": "smoky",
+    "trans": [
+      "adj. 烟熏的"
+    ]
+  },
+  {
+    "name": "snowboarding",
+    "trans": [
+      "n. 单板滑雪"
+    ]
+  },
+  {
+    "name": "sociable",
+    "trans": [
+      "adj. 好交际的"
+    ]
+  },
+  {
+    "name": "sofa",
+    "trans": [
+      "n. 沙发"
+    ]
+  },
+  {
+    "name": "softness",
+    "trans": [
+      "n. 柔软"
+    ]
+  },
+  {
+    "name": "someday",
+    "trans": [
+      "adv. 某天"
+    ]
+  },
+  {
+    "name": "spared",
+    "trans": [
+      "v.  spared"
+    ]
+  },
+  {
+    "name": "specialized",
+    "trans": [
+      "adj. 专门的"
+    ]
+  },
+  {
+    "name": "specifically",
+    "trans": [
+      "adv. 专门地"
+    ]
+  },
+  {
+    "name": "spice",
+    "trans": [
+      "n. 香料"
+    ]
+  },
+  {
+    "name": "spite",
+    "trans": [
+      "n. 恶意"
+    ]
+  },
+  {
+    "name": "spoon",
+    "trans": [
+      "n. 勺子"
+    ]
+  },
+  {
+    "name": "sportsmanship",
+    "trans": [
+      "n. 体育精神"
+    ]
+  },
+  {
+    "name": "squirrely",
+    "trans": [
+      "adj. 古怪的"
+    ]
+  },
+  {
+    "name": "stability",
+    "trans": [
+      "n. 稳定"
+    ]
+  },
+  {
+    "name": "stadium",
+    "trans": [
+      "n. 体育场"
+    ]
+  },
+  {
+    "name": "startups",
+    "trans": [
+      "n. 初创企业"
+    ]
+  },
+  {
+    "name": "stinky",
+    "trans": [
+      "adj. 臭的"
+    ]
+  },
+  {
+    "name": "strawberries",
+    "trans": [
+      "n. 草莓"
+    ]
+  },
+  {
+    "name": "striding",
+    "trans": [
+      "v. 大步走"
+    ]
+  },
+  {
+    "name": "striving",
+    "trans": [
+      "v. 努力"
+    ]
+  },
+  {
+    "name": "stuttering",
+    "trans": [
+      "n. 口吃"
+    ]
+  },
+  {
+    "name": "sub",
+    "trans": [
+      "n. 潜艇"
+    ]
+  },
+  {
+    "name": "subway",
+    "trans": [
+      "n. 地铁"
+    ]
+  },
+  {
+    "name": "summarized",
+    "trans": [
+      "v. 总结"
+    ]
+  },
+  {
+    "name": "summertime",
+    "trans": [
+      "n. 夏季"
+    ]
+  },
+  {
+    "name": "sunlight",
+    "trans": [
+      "n. 阳光"
+    ]
+  },
+  {
+    "name": "sunny",
+    "trans": [
+      "adj. 阳光的"
+    ]
+  },
+  {
+    "name": "surpassed",
+    "trans": [
+      "v. 超越"
+    ]
+  },
+  {
+    "name": "sweated",
+    "trans": [
+      "v. 出汗"
+    ]
+  },
+  {
+    "name": "sweaty",
+    "trans": [
+      "adj. 出汗的"
+    ]
+  },
+  {
+    "name": "swell",
+    "trans": [
+      "v. 膨胀"
+    ]
+  },
+  {
+    "name": "symbolism",
+    "trans": [
+      "n. 象征主义"
+    ]
+  },
+  {
+    "name": "symbolizes",
+    "trans": [
+      "v. 象征"
+    ]
+  },
+  {
+    "name": "sympathetic",
+    "trans": [
+      "adj. 同情的"
+    ]
+  },
+  {
+    "name": "symphony",
+    "trans": [
+      "n. 交响乐"
+    ]
+  },
+  {
+    "name": "tailored",
+    "trans": [
+      "adj. 定制的"
+    ]
+  },
+  {
+    "name": "tans",
+    "trans": [
+      "n. 晒黑"
+    ]
+  },
+  {
+    "name": "tenseness",
+    "trans": [
+      "n. 紧张"
+    ]
+  },
+  {
+    "name": "tent",
+    "trans": [
+      "n. 帐篷"
+    ]
+  },
+  {
+    "name": "tenth",
+    "trans": [
+      "n. 第十"
+    ]
+  },
+  {
+    "name": "terracotta",
+    "trans": [
+      "n. 陶土"
+    ]
+  },
+  {
+    "name": "textbooks",
+    "trans": [
+      "n. 课本"
+    ]
+  },
+  {
+    "name": "thankfulness",
+    "trans": [
+      "n. 感恩"
+    ]
+  },
+  {
+    "name": "therapeutic",
+    "trans": [
+      "adj. 治疗的"
+    ]
+  },
+  {
+    "name": "therein",
+    "trans": [
+      "adv. 在其中"
+    ]
+  },
+  {
+    "name": "thermometer",
+    "trans": [
+      "n. 温度计"
+    ]
+  },
+  {
+    "name": "thrive",
+    "trans": [
+      "v. 繁荣"
+    ]
+  },
+  {
+    "name": "tire",
+    "trans": [
+      "n. 轮胎"
+    ]
+  },
+  {
+    "name": "tiredness",
+    "trans": [
+      "n. 疲劳"
+    ]
+  },
+  {
+    "name": "tiring",
+    "trans": [
+      "adj. 令人疲倦的"
+    ]
+  },
+  {
+    "name": "tofu",
+    "trans": [
+      "n. 豆腐"
+    ]
+  },
+  {
+    "name": "ton",
+    "trans": [
+      "n. 吨"
+    ]
+  },
+  {
+    "name": "torch",
+    "trans": [
+      "n. 火炬"
+    ]
+  },
+  {
+    "name": "tourism",
+    "trans": [
+      "n. 旅游业"
+    ]
+  },
+  {
+    "name": "tragedy",
+    "trans": [
+      "n. 悲剧"
+    ]
+  },
+  {
+    "name": "trail",
+    "trans": [
+      "n. 小径"
+    ]
+  },
+  {
+    "name": "trainlink",
+    "trans": [
+      "n. 列车连接"
+    ]
+  },
+  {
+    "name": "trim",
+    "trans": [
+      "v. 修剪"
+    ]
+  },
+  {
+    "name": "trudge",
+    "trans": [
+      "v. 跋涉"
+    ]
+  },
+  {
+    "name": "tub",
+    "trans": [
+      "n. 浴缸"
+    ]
+  },
+  {
+    "name": "tumor",
+    "trans": [
+      "n. 肿瘤"
+    ]
+  },
+  {
+    "name": "tutor",
+    "trans": [
+      "n. 导师"
+    ]
+  },
+  {
+    "name": "ultimate",
+    "trans": [
+      "adj. 最终的"
+    ]
+  },
+  {
+    "name": "unaware",
+    "trans": [
+      "adj. 未察觉的"
+    ]
+  },
+  {
+    "name": "uncertainty",
+    "trans": [
+      "n. 不确定性"
+    ]
+  },
+  {
+    "name": "unconsciously",
+    "trans": [
+      "adv. 无意识地"
+    ]
+  },
+  {
+    "name": "undergraduate",
+    "trans": [
+      "n. 本科生"
+    ]
+  },
+  {
+    "name": "unfairness",
+    "trans": [
+      "n. 不公平"
+    ]
+  },
+  {
+    "name": "unforgettable",
+    "trans": [
+      "adj. 难忘的"
+    ]
+  },
+  {
+    "name": "unimaginable",
+    "trans": [
+      "adj. 难以想象的"
+    ]
+  },
+  {
+    "name": "unity",
+    "trans": [
+      "n. 团结"
+    ]
+  },
+  {
+    "name": "unlock",
+    "trans": [
+      "v. 解锁"
+    ]
+  },
+  {
+    "name": "unnecessary",
+    "trans": [
+      "adj. 不必要的"
+    ]
+  },
+  {
+    "name": "unobtrusive",
+    "trans": [
+      "adj. 不引人注目的"
+    ]
+  },
+  {
+    "name": "unreal",
+    "trans": [
+      "adj. 不真实的"
+    ]
+  },
+  {
+    "name": "unreliable",
+    "trans": [
+      "adj. 不可靠的"
+    ]
+  },
+  {
+    "name": "unsaturated",
+    "trans": [
+      "adj. 不饱和的"
+    ]
+  },
+  {
+    "name": "unsold",
+    "trans": [
+      "adj. 未售出的"
+    ]
+  },
+  {
+    "name": "upcoming",
+    "trans": [
+      "adj. 即将到来的"
+    ]
+  },
+  {
+    "name": "uplifting",
+    "trans": [
+      "adj. 令人振奋的"
+    ]
+  },
+  {
+    "name": "upstairs",
+    "trans": [
+      "adv. 楼上"
+    ]
+  },
+  {
+    "name": "val",
+    "trans": [
+      "n. 山谷"
+    ]
+  },
+  {
+    "name": "van",
+    "trans": [
+      "n. 货车"
+    ]
+  },
+  {
+    "name": "vendors",
+    "trans": [
+      "n. 摊贩"
+    ]
+  },
+  {
+    "name": "via",
+    "trans": [
+      "prep. 通过"
+    ]
+  },
+  {
+    "name": "videocall",
+    "trans": [
+      "n. 视频通话"
+    ]
+  },
+  {
+    "name": "viewpoint",
+    "trans": [
+      "n. 观点"
+    ]
+  },
+  {
+    "name": "viewpoints",
+    "trans": [
+      "n. 观点"
+    ]
+  },
+  {
+    "name": "visibility",
+    "trans": [
+      "n. 可见度"
+    ]
+  },
+  {
+    "name": "voiceless",
+    "trans": [
+      "adj. 无声的"
+    ]
+  },
+  {
+    "name": "wailed",
+    "trans": [
+      "v. 哀号"
+    ]
+  },
+  {
+    "name": "waist",
+    "trans": [
+      "n. 腰"
+    ]
+  },
+  {
+    "name": "warrior",
+    "trans": [
+      "n. 战士"
+    ]
+  },
+  {
+    "name": "wee",
+    "trans": [
+      "adj. 微小的"
+    ]
+  },
+  {
+    "name": "wheelchair",
+    "trans": [
+      "n. 轮椅"
+    ]
+  },
+  {
+    "name": "whiteout",
+    "trans": [
+      "n. 白化"
+    ]
+  },
+  {
+    "name": "whiz",
+    "trans": [
+      "n. 能手"
+    ]
+  },
+  {
+    "name": "wholesale",
+    "trans": [
+      "n. 批发"
+    ]
+  },
+  {
+    "name": "widespread",
+    "trans": [
+      "adj. 广泛的"
+    ]
+  },
+  {
+    "name": "wildfire",
+    "trans": [
+      "n. 野火"
+    ]
+  },
+  {
+    "name": "woodworking",
+    "trans": [
+      "n. 木工"
+    ]
+  },
+  {
+    "name": "workplace",
+    "trans": [
+      "n. 工作场所"
+    ]
+  },
+  {
+    "name": "workshops",
+    "trans": [
+      "n. 工作坊"
+    ]
+  },
+  {
+    "name": "worsening",
+    "trans": [
+      "adj. 恶化的"
+    ]
+  },
+  {
+    "name": "wretched",
+    "trans": [
+      "adj. 可怜的"
+    ]
+  },
+  {
+    "name": "yogurt",
+    "trans": [
+      "n. 酸奶"
+    ]
+  }
+]
